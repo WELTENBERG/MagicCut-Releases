@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>WhisperX Transkriptor</title>
+        <description>Updates für WhisperX Transkriptor</description>
+        <language>de</language>
+
+        <!--
+        Neue Release-Einträge werden hier eingefügt:
+        <item>
+            <title>Version 1.1.0</title>
+            <pubDate>Mon, 20 Apr 2026 14:00:00 +0200</pubDate>
+            <sparkle:version>1.1.0</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                  <li>Was neu ist...</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/WhisperX-Transkriptor-Releases/releases/download/v1.1.0/WhisperX-Transkriptor-1.1.0.dmg"
+                sparkle:version="1.1.0"
+                sparkle:shortVersionString="1.1.0"
+                sparkle:edSignature="..."
+                length="..."
+                type="application/octet-stream"/>
+        </item>
+        -->
+
+    </channel>
+</rss>
