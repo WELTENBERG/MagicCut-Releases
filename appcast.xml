@@ -154,5 +154,23 @@ Hotfix: Wenn beim Kopieren des Claude-Tokens aus dem Terminal ein Leerzeichen od
                 sparkle:edSignature="RMy3cZP+iWV52aqeXVpnv/qJr5/3YBnYjZnafGSqL/T0ALvxr0pg6vIEhm/wsIz9sNpC1kWEz3NkFvhiGahKBQ==" length="5147396"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 1.3.2</title>
+            <pubDate>Tue, 21 Apr 2026 04:21:10 +0000</pubDate>
+            <sparkle:version>202604210620</sparkle:version>
+            <sparkle:shortVersionString>1.3.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Zwei wichtige Fixes:
+
+1. 'The file python doesn't exist' beim Export behoben: Nach der App-Umbenennung zeigten die venv-Symlinks noch auf den alten Pfad. Die App repariert das jetzt beim Start automatisch.
+
+2. Neue Cut-Versionen entstehen jetzt automatisch, sobald Claude mit einer Antwort fertig ist. Vorher musste man manuell auf 'In Final Cut oeffnen' klicken, um eine Version zu erzeugen.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v1.3.2/Magic-Cut-1.3.2.dmg"
+                sparkle:edSignature="VF7P+3Ok2nI011EL4T9o2EiAcgNmDUG1FQIlRuBbaxIpUXon1M562HV3obYzPeFlwpkHZPE8Ks0Ugj0VDqqgBw==" length="5149908"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
