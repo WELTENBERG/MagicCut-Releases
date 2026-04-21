@@ -277,5 +277,23 @@ UX-Fix: Wenn du im Transkript-Tab auf 'Mit Magic Cut weiter' klickst, wird jetzt
                 sparkle:edSignature="AGxfz4rleRJf0I5ArZ2SKLE0/JQfzIyXZKILG/xdpQqrR+CCeFcxv3mkqUGZGMznaROg5XfBbrZW9phQmnTtBA==" length="5231999"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 1.4.4</title>
+            <pubDate>Tue, 21 Apr 2026 21:25:27 +0000</pubDate>
+            <sparkle:version>202604212324</sparkle:version>
+            <sparkle:shortVersionString>1.4.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Diarisations-Fix Teil 2 + hilfreiche Fehlermeldung.
+
+Die neuere WhisperX-Pipeline verlangt jetzt den kwarg 'token=' statt 'use_auth_token='. Gefixt.
+
+Wichtig: Das aktuelle pyannote-Modell ist gated und braucht einmalig dein OK auf HuggingFace — mit dem Account, der den HF-Token besitzt, kurz auf https://hf.co/pyannote/speaker-diarization-community-1 einloggen und 'Agree to share contact information' klicken. Danach erkennt Magic Cut deine Sprecher wieder. Wenn die Akzeptanz fehlt, zeigt die App jetzt direkt im Fehler-Panel die URL statt einer kryptischen Meldung.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v1.4.4/Magic-Cut-1.4.4.dmg"
+                sparkle:edSignature="yJfVXEWCQaGxgOnW33o0brO1peDcpbVlhVES1abg8CXcqFddF4CH2OxoCT9/dyQa1kwnofWig3rHld/siGtgDA==" length="5235799"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
