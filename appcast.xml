@@ -172,5 +172,21 @@ Zwei wichtige Fixes:
                 sparkle:edSignature="VF7P+3Ok2nI011EL4T9o2EiAcgNmDUG1FQIlRuBbaxIpUXon1M562HV3obYzPeFlwpkHZPE8Ks0Ugj0VDqqgBw==" length="5149908"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 1.3.3</title>
+            <pubDate>Tue, 21 Apr 2026 04:30:16 +0000</pubDate>
+            <sparkle:version>202604210629</sparkle:version>
+            <sparkle:shortVersionString>1.3.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Spatial-Conform (Fuellen/Anpassen) wirkt jetzt endlich auch auf Multicam-Clips — und zwar ohne die Multicam-Funktionalitaet zu opfern.
+
+Der Conform wird nicht mehr (DTD-widrig) auf die mc-clips in der Timeline gesetzt, sondern auf die inneren asset-clips in den Angle-Definitionen der Multicam-Media. Damit arbeitet in FCP Angle-Switch, Multicam-Editor und alles andere wie gewohnt, die Source-Angles werden aber mit dem gewaehlten Conform gerendert.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v1.3.3/Magic-Cut-1.3.3.dmg"
+                sparkle:edSignature="dpcuBLrrlNAuMqSYpUfTzsxEtEqDjQGm7tu0kQDNJJ7QczufS3C+9cfTEJnjCF1KQBBnqh1qFU048H2Emb0ZCw==" length="5149843"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
