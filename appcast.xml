@@ -90,5 +90,19 @@ HOTFIX: Pipe-Deadlock behoben. Magic Cut hing im Beachball direkt nach einem neu
                 sparkle:edSignature="YiSsrAtkHFol/gViuy+JPXRmq4gQmilr1APSf+6fxWXFZd7eiTWDqgDncIDy+b33xV790P2N6/bBfHER8tGgCw==" length="5118184"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 1.2.3</title>
+            <pubDate>Tue, 21 Apr 2026 02:59:54 +0000</pubDate>
+            <sparkle:version>202604210458</sparkle:version>
+            <sparkle:shortVersionString>1.2.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Hotfix 1: Chat scrollt beim App-Start nicht mehr ganz nach oben, sondern bleibt direkt bei der neuesten Nachricht. Hotfix 2: Wenn Claude-CLI mit einem Fehler endet (Auth, Session-Konflikt, etc.), zeigt Magic Cut jetzt die echte Fehlermeldung statt nur 'endet mit 1'. Bonus: stderr wird parallel gelesen (kein Beachball mehr bei vielen CLI-Debug-Ausgaben).
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v1.2.3/Magic-Cut-1.2.3.dmg"
+                sparkle:edSignature="Ukg1Rk8if7gJqXqVqLiXlcu/voUssGQNzodbwYn3UKZWxXgRXNkgPsGO4QjU1G6t3jc4kThgl5FZA+xhLnPqDQ==" length="5127580"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
