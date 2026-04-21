@@ -485,5 +485,21 @@ Zwei Ursachen, beide gefixt:
                 sparkle:edSignature="5JKGpw+4QVBflBIHkzjUgn76/xbiRXVIxJVHzABdEBpVqnUlyUc0F8ife4TgRV1lc5igCCcXikkdMo/z0V1MBw==" length="5353093"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 1.7.8</title>
+            <pubDate>Tue, 21 Apr 2026 23:20:27 +0000</pubDate>
+            <sparkle:version>202604220119</sparkle:version>
+            <sparkle:shortVersionString>1.7.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Fix: Stille-Analyse-Phase dauert nicht mehr 'ewig' im UI.
+
+Der Progress-Balken blieb in der VAD-Phase haengen, weil ein interner Whisperx-Log-String die UI-Stage zurueckgesetzt hat waehrend eigentlich schon transkribiert wurde. Fix: Stage-Wechsel gehen nur nach vorn in der Pipeline, nie zurueck. Plus expliziter VAD-Stage-Marker — die Phase wird jetzt als ~8s konstant angezeigt (was realistisch ist mit silero), und danach springt die UI sauber auf 'Transkribiert'.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v1.7.8/Magic-Cut-1.7.8.dmg"
+                sparkle:edSignature="J463Hgm9GEsKthcYhXLpP3Sd/qBG15qxibw8lIYeU6Zh8wUITUo2DDp3hoDgS1aIdRwwoPb3tS/CARKstHLTBg==" length="5351205"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
