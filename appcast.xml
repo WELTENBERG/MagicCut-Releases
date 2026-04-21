@@ -140,5 +140,19 @@ Der Token landet im macOS-Keychain und wird bei jedem Chat-Aufruf automatisch an
                 sparkle:edSignature="TmY41yy/dM4cZ9AeZYO6RRJPNPXokSRRWiDwrLLuNoBuI2pnMA5n2fIXXS8hQl9voz1DxgeiSRsk2uIuEi3EBg==" length="5145009"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 1.3.1</title>
+            <pubDate>Tue, 21 Apr 2026 04:08:43 +0000</pubDate>
+            <sparkle:version>202604210607</sparkle:version>
+            <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Hotfix: Wenn beim Kopieren des Claude-Tokens aus dem Terminal ein Leerzeichen oder Zeilenumbruch mit reingerutscht ist (passiert oft durch Terminal-Zeilenumbruch), lehnt Anthropic den Token als 'Header has invalid value' ab. Magic Cut bereinigt solche Whitespaces jetzt automatisch beim Speichern UND Lesen — der bereits gespeicherte Token ist nach dem Update automatisch repariert.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v1.3.1/Magic-Cut-1.3.1.dmg"
+                sparkle:edSignature="RMy3cZP+iWV52aqeXVpnv/qJr5/3YBnYjZnafGSqL/T0ALvxr0pg6vIEhm/wsIz9sNpC1kWEz3NkFvhiGahKBQ==" length="5147396"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
