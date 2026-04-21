@@ -188,5 +188,24 @@ Der Conform wird nicht mehr (DTD-widrig) auf die mc-clips in der Timeline gesetz
                 sparkle:edSignature="dpcuBLrrlNAuMqSYpUfTzsxEtEqDjQGm7tu0kQDNJJ7QczufS3C+9cfTEJnjCF1KQBBnqh1qFU048H2Emb0ZCw==" length="5149843"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 1.3.4</title>
+            <pubDate>Tue, 21 Apr 2026 04:48:35 +0000</pubDate>
+            <sparkle:version>202604210647</sparkle:version>
+            <sparkle:shortVersionString>1.3.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Reliability-Pass nach Code-Audit:
+
+- Keine stummen 'cut_export.py endet mit 1' mehr: bei jedem unerwarteten Crash wird jetzt ein kompletter Traceback geliefert, der die echte Zeile zeigt.
+- Auto-Export triggert nicht mehr, wenn Claude einen Fehler hatte (vorher wurde bei API-Fehler ein Auto-Export auf alten Cuts ausgeloest).
+- Nach 'Chat leeren' funktioniert Auto-Export wieder, auch wenn Claude mit identischen Cuts antwortet.
+- Fehler-Panel zeigt doppelt so viel Kontext (800 statt 400 Zeichen) und waehlt die relevanteste Zeile aus.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v1.3.4/Magic-Cut-1.3.4.dmg"
+                sparkle:edSignature="BojEYL2Ixr0B+XdNxHbHw0vL1cGKk2femuA1tWtPVBRzB2iLaeIxBYBfIKo5OwVtuT0FCOFGskn2tOneheGCCQ==" length="5153109"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
