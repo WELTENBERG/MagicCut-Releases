@@ -395,5 +395,19 @@ Whisper-Transcription bleibt auf CPU (CTranslate2 hat noch kein Metal-Backend). 
                 sparkle:edSignature="A8T86aV+P/+csNLHNthS8NU+eZ2XAOIINLavPmps2sW7bX2ZA7lpgMDNVIjKO6T5Ag+sWFUQZFtLvOn3S3MWAA==" length="5345428"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 1.7.3</title>
+            <pubDate>Tue, 21 Apr 2026 22:34:23 +0000</pubDate>
+            <sparkle:version>202604220033</sparkle:version>
+            <sparkle:shortVersionString>1.7.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Progress-Balken zeigt jetzt den Gesamt-Fortschritt ueber alle Phasen, nicht mehr den phase-lokalen. Vorher stand er bei '100% · Phase 4/5 · 5 min verbleibend' — jetzt wächst er linear von 0% beim Start bis 100% bei 'Fertig', mit realistischer Gewichtung der Phasen-Dauern (pyannote-Diarisation macht z.B. 70% der Gesamtzeit aus).
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v1.7.3/Magic-Cut-1.7.3.dmg"
+                sparkle:edSignature="exrgSYuoZSxMwxRAz2Th5w3hKQxegLppdSBltziqyQ8Osb7YmQSSH08f2tTS4Ej5+96gJPQAHBrNIaLRYHLQCw==" length="5347291"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
