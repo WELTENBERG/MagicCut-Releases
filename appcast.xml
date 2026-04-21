@@ -341,5 +341,25 @@ Grosses Feature-Release:
                 sparkle:edSignature="QjPfA3fyFXsjreasto+cml2RuA4FdteXFjLoHhtSMNaWs4KplqSLNnQnwYFRvH+xjNDxRMdi8icG3+UBNS8OCQ==" length="5338745"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 1.7.0</title>
+            <pubDate>Tue, 21 Apr 2026 22:15:37 +0000</pubDate>
+            <sparkle:version>202604220014</sparkle:version>
+            <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Neue Diarisations-Engine: Deepgram Nova-3 (Cloud).
+
+pyannote (lokal) ist bekannt dafuer, bei aehnlich klingenden Stimmen zu Clustern zu mergen. Deepgram Nova-3 ist in Benchmarks deutlich genauer bei schnellen Dialog-Wechseln und kostet nur ~$0.0043 pro Minute Audio ($0.26/h).
+
+Einschalten: Einstellungen → Sprecher → Backend auf 'Deepgram Nova-3' umschalten. Ein Firmen-API-Key ist einkompiliert (du musst nichts setzen), eigener Key kann optional im gleichen Bereich hinterlegt werden.
+
+Architektur: whisperx transkribiert + aligned weiterhin lokal (deutsche Genauigkeit bleibt top). Deepgram liefert nur die Sprecher-Labels, die per Zeit-Ueberlappung in die Segmente gemerged werden. Bei Netz-Fehler automatischer Fallback auf pyannote.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v1.7.0/Magic-Cut-1.7.0.dmg"
+                sparkle:edSignature="GY8aWY1MPNmIv6l7k5f8Sw8aNUAMCRvaF5a+Xak98RABm2h5oVulgobEOzFzlkW2ZQUomz9NySR48TcbxtiVDQ==" length="5350693"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
