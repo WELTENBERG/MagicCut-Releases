@@ -263,5 +263,19 @@ Wichtiger Fix + neues UI:
                 sparkle:edSignature="9Yh07ze+uZbOWOLPI054ofTd3eSqdyJs+vMjzFlacH82fBgPQmIzupktl3vDlC1haM901ai1jjG5ETOGMuKXBg==" length="5233045"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 1.4.3</title>
+            <pubDate>Tue, 21 Apr 2026 21:21:06 +0000</pubDate>
+            <sparkle:version>202604212319</sparkle:version>
+            <sparkle:shortVersionString>1.4.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+UX-Fix: Wenn du im Transkript-Tab auf 'Mit Magic Cut weiter' klickst, wird jetzt im Magic-Cut-Tab genau dieser Job vorausgewaehlt. Vorher landete man auf dem letzten Magic-Cut-Job und musste manuell ueber das Dropdown umschalten.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v1.4.3/Magic-Cut-1.4.3.dmg"
+                sparkle:edSignature="AGxfz4rleRJf0I5ArZ2SKLE0/JQfzIyXZKILG/xdpQqrR+CCeFcxv3mkqUGZGMznaROg5XfBbrZW9phQmnTtBA==" length="5231999"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
