@@ -409,5 +409,23 @@ Progress-Balken zeigt jetzt den Gesamt-Fortschritt ueber alle Phasen, nicht mehr
                 sparkle:edSignature="exrgSYuoZSxMwxRAz2Th5w3hKQxegLppdSBltziqyQ8Osb7YmQSSH08f2tTS4Ej5+96gJPQAHBrNIaLRYHLQCw==" length="5347291"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 1.7.4</title>
+            <pubDate>Tue, 21 Apr 2026 22:44:52 +0000</pubDate>
+            <sparkle:version>202604220043</sparkle:version>
+            <sparkle:shortVersionString>1.7.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Alignment-Speed-Boost:
+
+1. wav2vec2 (Phase 'Wort-Alignment') laeuft jetzt mit float16 auf Apple Metal — ca. 2x schneller, kein spuerbarer Praezisions-Verlust (Word-Timings bleiben sub-Frame-genau bei ±20 ms).
+
+2. Optional in Einstellungen → Sprecher → 'Alignment per Deepgram': wenn aktiviert und Diarisation auch auf Deepgram, wird die ganze Alignment-Phase uebersprungen. Word-Timings kommen aus der Deepgram-Response (±40 ms = 1 Frame bei 25 fps, fuer Cuts noch absolut sauber). Spart bei 7-min-Audio ca. 1-2 Minuten.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v1.7.4/Magic-Cut-1.7.4.dmg"
+                sparkle:edSignature="RCQ5jzjg5JeJ2+1k4EBiDILDOV/QjDiLKhAjNLWLcaA9ynpqy4sQuSfJcvBAgvjW/7Zd/2i5Afw86f+ZmyKJDA==" length="5352178"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
