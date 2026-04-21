@@ -104,5 +104,19 @@ Hotfix 1: Chat scrollt beim App-Start nicht mehr ganz nach oben, sondern bleibt 
                 sparkle:edSignature="Ukg1Rk8if7gJqXqVqLiXlcu/voUssGQNzodbwYn3UKZWxXgRXNkgPsGO4QjU1G6t3jc4kThgl5FZA+xhLnPqDQ==" length="5127580"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 1.2.4</title>
+            <pubDate>Tue, 21 Apr 2026 03:12:37 +0000</pubDate>
+            <sparkle:version>202604210511</sparkle:version>
+            <sparkle:shortVersionString>1.2.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Fix: claude-CLI wird jetzt durch die User-Login-Shell gestartet. Vorher bekam Magic Cut aus dem Finder ein minimales Environment ohne den OAuth-Token, was zu 'Invalid API key · Please run /login' fuehrte, obwohl der User im Terminal laengst eingeloggt war. Jetzt vererben sich die Shell-Env-Variablen sauber an claude.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v1.2.4/Magic-Cut-1.2.4.dmg"
+                sparkle:edSignature="E/sgw7hKcNUKPrdecBAiNN2X55q1cjZpjz71td49ilCTS0TsGMCqsbqomi7xE3DNgDimpgIJ49cf6/E13fnMDQ==" length="5126822"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
