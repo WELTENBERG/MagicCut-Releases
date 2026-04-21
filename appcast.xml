@@ -229,5 +229,19 @@ Die umbenannten / gemergten Namen werden sowohl in der Transkript-Anzeige als au
                 sparkle:edSignature="VBScWI9CmqNOXBTZsf+ddKyqs4qI1uEFkOrOO5vsoMuoJ5Vos1sFhzlQKhZZNBh+LRyCXPz4ilJMocGjkN9bDA==" length="5218313"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 1.4.1</title>
+            <pubDate>Tue, 21 Apr 2026 10:30:53 +0000</pubDate>
+            <sparkle:version>202604211229</sparkle:version>
+            <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Hotfix: Wenn Claude seine Cut-Liste thematisch sortiert und mehrere JSON-Bloecke ausgibt (z.B. einen pro LOCATION, ORIGIN, TEAM, USP), werden jetzt alle zusammengemergt, dedupliziert und chronologisch sortiert — statt nur den ersten Block zu uebernehmen. Dadurch landen jetzt alle von Claude vorgeschlagenen Cuts in der neuen Version.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v1.4.1/Magic-Cut-1.4.1.dmg"
+                sparkle:edSignature="r62/MHia/yKICe+GYCneuRtelEOFodRSsB3pplaAHH1B9KhFCZc7ddot5BfuCY0wlamNiv9WT/SzG87dwnTZAQ==" length="5227584"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
