@@ -427,5 +427,21 @@ Alignment-Speed-Boost:
                 sparkle:edSignature="RCQ5jzjg5JeJ2+1k4EBiDILDOV/QjDiLKhAjNLWLcaA9ynpqy4sQuSfJcvBAgvjW/7Zd/2i5Afw86f+ZmyKJDA==" length="5352178"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 1.7.5</title>
+            <pubDate>Tue, 21 Apr 2026 22:54:38 +0000</pubDate>
+            <sparkle:version>202604220053</sparkle:version>
+            <sparkle:shortVersionString>1.7.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Stille-Analyse deutlich schneller: VAD nutzt jetzt silero statt pyannote — ca. 5x schneller bei gleicher oder leicht besserer Qualitaet. Bei 7-min-Audio spart das in der Phase 'Stille-Analyse' ca. 20-30 Sekunden.
+
+Nebenbei: OpenRouter kann leider keine Audio-Transcription (ist nur Chat/Text-Proxy). Fuer Cloud-Transcription waere OpenAI gpt-4o-transcribe oder Gladia der Weg — wenn du's willst, baue ich das in 1.8 ein.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v1.7.5/Magic-Cut-1.7.5.dmg"
+                sparkle:edSignature="DVz8Z671FQ/b7zkv0806kgjw5f296OD1B0vGn0eQTb7yqJoD6HVlq/07L2FOD/d14/pAxmCDk0ApAdaKZoz+Cg==" length="5352495"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
