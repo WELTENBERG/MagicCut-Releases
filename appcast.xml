@@ -76,5 +76,19 @@ Neu: Jeder Export bekommt direkt einen versionierten Projekt-Namen (z.B. 'GLASHA
                 sparkle:edSignature="j1erIcTRdipg3OxXax8v68GWI98W7EYvA9f0oOZA9tPSIIDxTBqSDbp3rVyEq7UP1k5VdlemyE3kC9zPswr7DA==" length="5117282"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 1.2.2</title>
+            <pubDate>Tue, 21 Apr 2026 02:52:20 +0000</pubDate>
+            <sparkle:version>202604210451</sparkle:version>
+            <sparkle:shortVersionString>1.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+HOTFIX: Pipe-Deadlock behoben. Magic Cut hing im Beachball direkt nach einem neuen Prompt, sobald der Python-Export-Subprocess genug stdout produzierte, dass der 64-KB-Pipe-Buffer vollief. Jetzt liest Magic Cut den Subprocess-Output laufend mit, Export laeuft ohne Haenger durch. Betrifft Projekte mit mehreren Versionen / vielen Cuts.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v1.2.2/Magic-Cut-1.2.2.dmg"
+                sparkle:edSignature="YiSsrAtkHFol/gViuy+JPXRmq4gQmilr1APSf+6fxWXFZd7eiTWDqgDncIDy+b33xV790P2N6/bBfHER8tGgCw==" length="5118184"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
