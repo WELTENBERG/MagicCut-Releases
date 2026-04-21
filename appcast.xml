@@ -361,5 +361,19 @@ Architektur: whisperx transkribiert + aligned weiterhin lokal (deutsche Genauigk
                 sparkle:edSignature="GY8aWY1MPNmIv6l7k5f8Sw8aNUAMCRvaF5a+Xak98RABm2h5oVulgobEOzFzlkW2ZQUomz9NySR48TcbxtiVDQ==" length="5350693"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 1.7.1</title>
+            <pubDate>Tue, 21 Apr 2026 22:21:36 +0000</pubDate>
+            <sparkle:version>202604220020</sparkle:version>
+            <sparkle:shortVersionString>1.7.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Aufraeumen: Deepgram Nova-3 ist jetzt Default-Diarisations-Engine. Die globale 'Erwartete Sprecheranzahl'-Einstellung ist raus (war als App-weite Einstellung unsinnig, aendert sich ja pro Audio). Deepgram clustert ohne Hint bereits genauer als pyannote.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v1.7.1/Magic-Cut-1.7.1.dmg"
+                sparkle:edSignature="2j5MDFmyUNp3Z9r8IxzfjK3UbKBUwVU0uABUyh73XPwVw1RVzwORKaXDoXSp34qZFfIZPkI+KElE4v6S9o3uBw==" length="5343230"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
