@@ -295,5 +295,23 @@ Wichtig: Das aktuelle pyannote-Modell ist gated und braucht einmalig dein OK auf
                 sparkle:edSignature="yJfVXEWCQaGxgOnW33o0brO1peDcpbVlhVES1abg8CXcqFddF4CH2OxoCT9/dyQa1kwnofWig3rHld/siGtgDA==" length="5235799"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 1.5.0</title>
+            <pubDate>Tue, 21 Apr 2026 21:36:59 +0000</pubDate>
+            <sparkle:version>202604212335</sparkle:version>
+            <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Transkript komplett neu formatiert:
+
+Jede Sprecher-Passage bekommt jetzt einen eigenen Block — mit farbigem Sprecher-Chip (passend zur Palette der Chip-Leiste oben), Zeitstempel und sauber gesetztem Text-Absatz. Umbenennen eines Sprechers oben in der Leiste aktualisiert sofort alle Chips IM Transkript — live gebunden, keine manuelle Neulade-Aktion noetig.
+
+Lesbarkeit deutlich besser: Absaetze haben 18pt Vertikal-Abstand, Zeilen 3pt Line-Spacing, Typografie wie ein Magazin-Artikel statt Plaintext.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v1.5.0/Magic-Cut-1.5.0.dmg"
+                sparkle:edSignature="jF8CKf/gQjTPkVw85JC8/oOY6oYtXjNgjRcfBfh1MixruWrsNo81a1iCw3KVeBuDDZ8ghMfSGaLPhjeHg5SqCQ==" length="5259897"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
