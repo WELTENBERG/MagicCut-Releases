@@ -463,5 +463,27 @@ Kritischer Fix der Deepgram-Sprecher-Zuweisung + VAD-Speedup:
                 sparkle:edSignature="k7tEQX3bdtHWpN1d1e9Qd0Ywm+l4FYlLYswfQYmOncZ41gCEc0mcImulKJNBkOi13sYDqKhQzVuggE125eANDg==" length="5353865"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 1.7.7</title>
+            <pubDate>Tue, 21 Apr 2026 23:10:07 +0000</pubDate>
+            <sparkle:version>202604220109</sparkle:version>
+            <sparkle:shortVersionString>1.7.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Speaker-Bleeding-Fix:
+
+Problem: Worte am Ende eines Sprechers wurden manchmal dem naechsten Sprecher zugewiesen (z.B. 'bewerben wollen wuerde?' = Teil der Frage von Sprecher 1, wurde aber Sprecher 2).
+
+Zwei Ursachen, beide gefixt:
+
+1. Bei 'Alignment per Deepgram' (schneller-Toggle): 1:1 Token-Mapping zwischen Whisper und Deepgram driftete bei leicht unterschiedlicher Tokenisierung. Jetzt: komplett Deepgram (Text + Timing + Speaker aus einer Quelle).
+
+2. Bei wav2vec2-Alignment (Standard): Speaker-Zuweisung nahm den haeufigsten Treffer statt den mit groesster Zeit-Ueberlappung. Jetzt millisekunden-genau gewichtet.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v1.7.7/Magic-Cut-1.7.7.dmg"
+                sparkle:edSignature="5JKGpw+4QVBflBIHkzjUgn76/xbiRXVIxJVHzABdEBpVqnUlyUc0F8ife4TgRV1lc5igCCcXikkdMo/z0V1MBw==" length="5353093"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
