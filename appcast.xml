@@ -501,5 +501,19 @@ Der Progress-Balken blieb in der VAD-Phase haengen, weil ein interner Whisperx-L
                 sparkle:edSignature="J463Hgm9GEsKthcYhXLpP3Sd/qBG15qxibw8lIYeU6Zh8wUITUo2DDp3hoDgS1aIdRwwoPb3tS/CARKstHLTBg==" length="5351205"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 1.8.0</title>
+            <pubDate>Tue, 21 Apr 2026 23:47:25 +0000</pubDate>
+            <sparkle:version>202604220146</sparkle:version>
+            <sparkle:shortVersionString>1.8.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+KI-Merge via Claude Sonnet für semantisch korrekte Sprecher-Zuordnung. Backend-aware ETA — Deepgram-Jobs zeigen jetzt realistische Restzeit. Live-Status unter jeder Phase: Upload-Fortschritt, Deepgram-Processing, Claude-Merge.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v1.8.0/Magic-Cut-1.8.0.dmg"
+                sparkle:edSignature="Qcg4tLGLq7kr4nLI7D3uxgR7DGU0VzQzg2dPQXAfZWg40aiXapybCmWs34HbuPL49Vt2i1LnVWQmvBKzTEE1DQ==" length="5368487"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
