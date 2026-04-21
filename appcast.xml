@@ -44,5 +44,19 @@ Rebrand: WhisperX Transkriptor heisst jetzt Magic Cut. Bestehende App-Daten (Mod
                 sparkle:edSignature="z2+S1dVtSYu4kOlz776eiBfAzY99ZHEFreJhRKwlrzx5hfEGj0b8hdv7/O3edvk3y2xU2J9O0iBsX3E0odJIAw==" length="5113390"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 1.2.0</title>
+            <pubDate>Tue, 21 Apr 2026 02:36:40 +0000</pubDate>
+            <sparkle:version>202604210435</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Spatial-Conform (Fill/Fit) wirkt jetzt auch auf Multicam-Clips. Vorher wurden Multicam-Sourcen im Portrait-Target-Format (Reels/Shorts) letterboxed dargestellt, weil die FCPXML-DTD adjust-conform nicht direkt in mc-clip erlaubt. Fix: mc-clips werden jetzt in einen <clip>-Wrapper verpackt, der das Spatial-Conform traegt — Fill fuellt den Frame korrekt.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v1.2.0/Magic-Cut-1.2.0.dmg"
+                sparkle:edSignature="3cEvP6GbtiBo0fdxp+b9PE8Wb5HLYJeM871Eb6LEana7WWSApP+caooZeIn/B0VyDNsRTCRUPc1GvwS8DdowBA==" length="5116821"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
