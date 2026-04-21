@@ -58,5 +58,23 @@ Spatial-Conform (Fill/Fit) wirkt jetzt auch auf Multicam-Clips. Vorher wurden Mu
                 sparkle:edSignature="3cEvP6GbtiBo0fdxp+b9PE8Wb5HLYJeM871Eb6LEana7WWSApP+caooZeIn/B0VyDNsRTCRUPc1GvwS8DdowBA==" length="5116821"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 1.2.1</title>
+            <pubDate>Tue, 21 Apr 2026 02:43:09 +0000</pubDate>
+            <sparkle:version>202604210442</sparkle:version>
+            <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Hotfix: Multicams bleiben Multicams.
+
+Der 1.2.0-Wrapper-Ansatz machte aus Multicam-Clips beim Import normale Clips — Angle-Switch weg, Spatial-Conform unveraenderbar. Deshalb zurueck: Multicams bleiben funktional als Multicam, Spatial-Conform (Fuellen/Anpassen) muss bei Multicam-Clips pro Clip manuell im FCP-Inspector gesetzt werden. Bei allen anderen Clip-Typen (Einzel-Clips, Ref-Clips) funktioniert der automatische Spatial-Conform wie gewohnt.
+
+Neu: Jeder Export bekommt direkt einen versionierten Projekt-Namen (z.B. 'GLASHAUS — Magic Cut v1.3'). FCP importiert jede Version als neues Projekt, statt selbst weiterzunummerieren oder zu ueberschreiben.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v1.2.1/Magic-Cut-1.2.1.dmg"
+                sparkle:edSignature="j1erIcTRdipg3OxXax8v68GWI98W7EYvA9f0oOZA9tPSIIDxTBqSDbp3rVyEq7UP1k5VdlemyE3kC9zPswr7DA==" length="5117282"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
