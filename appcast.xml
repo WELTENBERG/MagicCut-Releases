@@ -375,5 +375,25 @@ Aufraeumen: Deepgram Nova-3 ist jetzt Default-Diarisations-Engine. Die globale '
                 sparkle:edSignature="2j5MDFmyUNp3Z9r8IxzfjK3UbKBUwVU0uABUyh73XPwVw1RVzwORKaXDoXSp34qZFfIZPkI+KElE4v6S9o3uBw==" length="5343230"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 1.7.2</title>
+            <pubDate>Tue, 21 Apr 2026 22:29:30 +0000</pubDate>
+            <sparkle:version>202604220028</sparkle:version>
+            <sparkle:shortVersionString>1.7.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Zwei kleine aber nuetzliche Fixes:
+
+1. 'Nach Updates suchen' loescht jetzt den Sparkle-Cache vorher — zeigt immer den aktuellen Release-Stand, kein 24h-alter Stand mehr.
+
+2. wav2vec2-Alignment (Phase 'Wort-Alignment') laeuft jetzt auf Apple Metal statt CPU — bei 7-min-Audio ca. 2x schneller.
+
+Whisper-Transcription bleibt auf CPU (CTranslate2 hat noch kein Metal-Backend). Das ist der groessere Bottleneck — sobald CTranslate2 Apple Silicon native unterstuetzt, kommt der Speed-Boost dort dazu.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v1.7.2/Magic-Cut-1.7.2.dmg"
+                sparkle:edSignature="A8T86aV+P/+csNLHNthS8NU+eZ2XAOIINLavPmps2sW7bX2ZA7lpgMDNVIjKO6T5Ag+sWFUQZFtLvOn3S3MWAA==" length="5345428"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
