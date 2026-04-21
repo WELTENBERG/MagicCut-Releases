@@ -313,5 +313,33 @@ Lesbarkeit deutlich besser: Absaetze haben 18pt Vertikal-Abstand, Zeilen 3pt Lin
                 sparkle:edSignature="jF8CKf/gQjTPkVw85JC8/oOY6oYtXjNgjRcfBfh1MixruWrsNo81a1iCw3KVeBuDDZ8ghMfSGaLPhjeHg5SqCQ==" length="5259897"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 1.6.0</title>
+            <pubDate>Tue, 21 Apr 2026 22:06:53 +0000</pubDate>
+            <sparkle:version>202604220005</sparkle:version>
+            <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Grosses Feature-Release:
+
+1. Audio-Player unter dem Transkript — Klick auf Sprecher-Block springt zur Stelle, aktiver Absatz wird live farbig hervorgehoben + auto-gescrollt. Space = Play/Pause.
+
+2. Frame-Rate-Unterschiede (Source 30fps → Sequence 25p) FRAME-GENAU geloest. Source-Frames werden exakt getroffen, kein Drift mehr.
+
+3. Sprecher-Erkennung deutlich genauer: In den Einstellungen kannst du die erwartete Sprecher-Anzahl setzen (2/3/4/5) — zwingt pyannote zu saubererem Clustering bei aehnlichen Stimmen.
+
+4. pyannote laeuft jetzt auf Apple Metal (MPS) statt CPU — Diarisation ~3x schneller.
+
+5. ETA realistisch: Phase-aware ('noch ~5 min' statt '~0s verbleibend' bei laufendem pyannote).
+
+6. .magiccut-Pakete enthalten jetzt ALLE verwendeten Assets (Haupt-Audio + FCPXML-Asset-Quellen) — verschickbar als komplettes Archiv.
+
+7. Alle Export-Presets jetzt 25p (keine fps-Mismatches mehr).
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v1.6.0/Magic-Cut-1.6.0.dmg"
+                sparkle:edSignature="QjPfA3fyFXsjreasto+cml2RuA4FdteXFjLoHhtSMNaWs4KplqSLNnQnwYFRvH+xjNDxRMdi8icG3+UBNS8OCQ==" length="5338745"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
