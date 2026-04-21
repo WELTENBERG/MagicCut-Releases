@@ -443,5 +443,25 @@ Nebenbei: OpenRouter kann leider keine Audio-Transcription (ist nur Chat/Text-Pr
                 sparkle:edSignature="DVz8Z671FQ/b7zkv0806kgjw5f296OD1B0vGn0eQTb7yqJoD6HVlq/07L2FOD/d14/pAxmCDk0ApAdaKZoz+Cg==" length="5352495"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 1.7.6</title>
+            <pubDate>Tue, 21 Apr 2026 23:04:08 +0000</pubDate>
+            <sparkle:version>202604220103</sparkle:version>
+            <sparkle:shortVersionString>1.7.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Kritischer Fix der Deepgram-Sprecher-Zuweisung + VAD-Speedup:
+
+1. Sprecher-Trennung jetzt wie in Deepgrams eigener Web-UI sauber: jedes whisperx-Segment wird an echten Speaker-Wechseln gesplittet, statt Mehrheits-Voting uebers ganze Segment (das hat Dialog-Wechsel gekillt).
+
+2. Bei aktivem 'Alignment per Deepgram'-Toggle bleibt der TEXT weiterhin von Whisper — nur Timings + Sprecher kommen von Deepgram. Vorher wurde der ganze Text durch Deepgram ersetzt (schwaecheres Deutsch).
+
+3. Silero-VAD statt pyannote-Segmentation in der Stille-Analyse: ca. 5x schneller, kein Qualitaetsverlust.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v1.7.6/Magic-Cut-1.7.6.dmg"
+                sparkle:edSignature="k7tEQX3bdtHWpN1d1e9Qd0Ywm+l4FYlLYswfQYmOncZ41gCEc0mcImulKJNBkOi13sYDqKhQzVuggE125eANDg==" length="5353865"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
