@@ -207,5 +207,27 @@ Reliability-Pass nach Code-Audit:
                 sparkle:edSignature="BojEYL2Ixr0B+XdNxHbHw0vL1cGKk2femuA1tWtPVBRzB2iLaeIxBYBfIKo5OwVtuT0FCOFGskn2tOneheGCCQ==" length="5153109"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 1.4.0</title>
+            <pubDate>Tue, 21 Apr 2026 10:14:36 +0000</pubDate>
+            <sparkle:version>202604211213</sparkle:version>
+            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Neues Feature: Sprecher-Chips im Transkript-Panel.
+
+Magic Cut zeigt jetzt alle erkannten Sprecher (SPEAKER_00, SPEAKER_01, …) als farbige Chips oben im Transkript. Pro Chip:
+- Doppelklick oder Rechtsklick → umbenennen (z.B. 'Mike', 'Interviewgast')
+- Drag einen Chip auf einen anderen → Mergen (wenn dieselbe Person als zwei verschiedene Sprecher erkannt wurde)
+- Aufklappbarer Bereich zeigt gemergte Sprecher mit 'Trennen'-Knopf
+- 8 Farben rotierend
+
+Die umbenannten / gemergten Namen werden sowohl in der Transkript-Anzeige als auch in dem Text verwendet, den Claude bekommt — Claude kennt ab sofort deine Sprecher beim Namen. Gespeichert pro Projekt in speakers.json.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v1.4.0/Magic-Cut-1.4.0.dmg"
+                sparkle:edSignature="VBScWI9CmqNOXBTZsf+ddKyqs4qI1uEFkOrOO5vsoMuoJ5Vos1sFhzlQKhZZNBh+LRyCXPz4ilJMocGjkN9bDA==" length="5218313"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
