@@ -683,5 +683,19 @@ Token-Paste-Fix: Beim Einfuegen des 1-Jahr-Tokens aus dem Terminal werden Zeilen
                 sparkle:edSignature="836sgZVdxxk10xqiI0YGPwKYX4RZV6+aomBTQuCzXnqFNOV7pKHfrPADcIp7F+tdADJfAvaROdXyR4WUR+0FCg==" length="5459141"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.2.4</title>
+            <pubDate>Wed, 22 Apr 2026 21:46:47 +0000</pubDate>
+            <sparkle:version>202604222345</sparkle:version>
+            <sparkle:shortVersionString>2.2.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Chat-Watchdog: Wenn Claude nach 2 Minuten nicht antwortet, bricht der Chat automatisch ab und zeigt eine klare Fehlermeldung mit Diagnose-Hinweisen — vorher blieb der Chat endlos in 'denkt...' ohne jemals einen Error zu zeigen.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.2.4/Magic-Cut-2.2.4.dmg"
+                sparkle:edSignature="H08fTK2PDIZAw0iHYVPMJdWMU/wjF/uWO2693aXubkrdRzTkQ6zi0NofhKRmSu6uWQ9HJIVXkS5leImtlIBkBw==" length="5460349"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
