@@ -529,5 +529,19 @@ Speaker-Bleeding-Fix: Sprecher-Zuweisung pro Wort jetzt per Text-Alignment (Whis
                 sparkle:edSignature="4wkP76ePGbUriHElFu1que1z2XVGgyfahNfNysNI5bhdTmFsybAezkgc0cJbZtuSw0XNvAydDrM/ZN+495sSCw==" length="5369314"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 1.8.2</title>
+            <pubDate>Wed, 22 Apr 2026 00:17:58 +0000</pubDate>
+            <sparkle:version>202604220216</sparkle:version>
+            <sparkle:shortVersionString>1.8.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+KRITISCHER FIX: Claude bekommt jetzt endlich Word-Level-Timings pro Wort (wav2vec2 ±20ms, sub-Frame bei 25fps). Vorher wurden nur Segment-Block-Timestamps weitergereicht — das hat feine Cuts innerhalb langer Segmente verhindert. Jetzt kann Claude das liefern was der Sinn der App ist: Millisekunden-genaue FCP-Cuts, beliebig viele pro Segment.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v1.8.2/Magic-Cut-1.8.2.dmg"
+                sparkle:edSignature="bDL6ihKOgN5cJtUO8/B8SrYAZW7+BEgjBRe73D0KHgzdow5VmoIvnALisQ2r5g3L/HZ1Y4P5soGQZeGGk/qmBw==" length="5375150"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
