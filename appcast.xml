@@ -585,5 +585,19 @@ BUG-FIX: wav2vec2-Alignment auf MPS crashte mit RuntimeError wegen float16/float
                 sparkle:edSignature="CAPVdEgZdTgmEOCXarL4XGlS5PyFJvk9sPeuc56/iSWEpE51cUVhqq+fmUhzjzFh8EpjuhqNduY3tV9D+nKfDA==" length="5388980"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.0.0</title>
+            <pubDate>Wed, 22 Apr 2026 01:03:27 +0000</pubDate>
+            <sparkle:version>202604220302</sparkle:version>
+            <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Großer QA-Pass: 10 parallele Review-Agents haben 15 kritische Bugs aufgedeckt und gefixt. cancel() im Chat funktioniert jetzt wirklich. Claude-Session recovered sich nach Fehlern selbst. Sprecher-Zuordnung vom AI-Merge ist korrekt indiziert (war bei fehlerhaften Claude-Antworten off-by-N). Word-Timings mit voller Millisekunden-Präzision an Claude. FCP-Exporter filtert halluzinierte Cuts. Disk-Space-Check vor Installation. Chat-Retrieval mit Timeout. Sprecher-Rename verhindert Name-Kollisionen. Frame-Exporter crasht nicht mehr bei ungültiger Framerate.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.0.0/Magic-Cut-2.0.0.dmg"
+                sparkle:edSignature="6rPhJJeUHhww/LiHsqm60pwTMhEiXbyE/coNB4Pp7VgAiRxaQIu7E9wJ5wYA/qe6hSQFmxVBBJnpKaw3d5BsAA==" length="5402564"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
