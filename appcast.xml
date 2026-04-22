@@ -543,5 +543,19 @@ KRITISCHER FIX: Claude bekommt jetzt endlich Word-Level-Timings pro Wort (wav2ve
                 sparkle:edSignature="bDL6ihKOgN5cJtUO8/B8SrYAZW7+BEgjBRe73D0KHgzdow5VmoIvnALisQ2r5g3L/HZ1Y4P5soGQZeGGk/qmBw==" length="5375150"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 1.8.3</title>
+            <pubDate>Wed, 22 Apr 2026 00:26:32 +0000</pubDate>
+            <sparkle:version>202604220225</sparkle:version>
+            <sparkle:shortVersionString>1.8.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Push-Benachrichtigung wenn das Transkript fertig ist — inkl. Dauer und Sprecher-Anzahl im Body. Klick auf das Banner öffnet direkt den Projekt-Ordner im Finder. Auch bei Fehlern kommt jetzt eine Notification. Dock-Icon zeigt Badge mit Anzahl fertiger Jobs.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v1.8.3/Magic-Cut-1.8.3.dmg"
+                sparkle:edSignature="f8ic8mp4VCToLNzLyjDp/iqbMi0Q3UjPCD/J5nK8+Z4t0VdAWOub5735HzlTf1nA2IwWy1xXDVgWTIT+OdFDAg==" length="5381481"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
