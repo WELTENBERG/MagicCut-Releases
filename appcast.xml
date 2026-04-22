@@ -613,5 +613,19 @@ Sprecher-Zitate jetzt als farbige Quote-Cards: Claude nennt ein Zitat im Format 
                 sparkle:edSignature="B74Lp5Sgc38Yiwzrw1KVPktkl1xTsz+2VooDntRSq5qq+Qj6l1PVVGm98m+Ee+wzxpBSTNUp+f2SVPSBXLjhAw==" length="5418971"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.1.1</title>
+            <pubDate>Wed, 22 Apr 2026 01:29:41 +0000</pubDate>
+            <sparkle:version>202604220328</sparkle:version>
+            <sparkle:shortVersionString>2.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Cut-Liste bewahrt jetzt Claudes Story-Reihenfolge (vorher faelschlich nach Start-Zeit sortiert). Quote-Parser findet jetzt auch Zitate mit Kontext-Text dahinter.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.1.1/Magic-Cut-2.1.1.dmg"
+                sparkle:edSignature="w2RvAMWfdq4piy8ZZXAsiTfkiiPviaRgykfy6LntgH9srNeKP7nVd/dkYANWZkzFyhHFhvircHw7LYZ3v52kDg==" length="5415952"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
