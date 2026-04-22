@@ -725,5 +725,19 @@ Chat-Geschwindigkeit deutlich verbessert: Neuer Modell-Picker in Settings laesst
                 sparkle:edSignature="1PKqug+Nie4Mnn+KQ5cUsPYgaQ2QSwnWWEXnXw3YBUqY1busiF9XktcGZCKXfNEU5yHTCQwegIFhk0lbP4GCDQ==" length="5525698"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.3.2</title>
+            <pubDate>Wed, 22 Apr 2026 22:38:01 +0000</pubDate>
+            <sparkle:version>202604230036</sparkle:version>
+            <sparkle:shortVersionString>2.3.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Keine Black-Box mehr: Waehrend Opus nachdenkt zeigt eine Live-Phase-Anzeige in der Chat-Bubble was gerade passiert (Kontext laden → Analyse → Cut-Strategie → Finale Liste) plus Timer. Fuer Debugging: Stream-Events landen ab jetzt im Diagnose-Log.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.3.2/Magic-Cut-2.3.2.dmg"
+                sparkle:edSignature="lrdVYMr4NrbNa7hytJ3EKOekksKpvenycPitQquxTqZKDpqz5SO4ZuvCdG4DzKoDOqaMO8hbH3E0u/C3R/FtAg==" length="5514260"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
