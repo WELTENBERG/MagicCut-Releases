@@ -557,5 +557,19 @@ Push-Benachrichtigung wenn das Transkript fertig ist — inkl. Dauer und Spreche
                 sparkle:edSignature="f8ic8mp4VCToLNzLyjDp/iqbMi0Q3UjPCD/J5nK8+Z4t0VdAWOub5735HzlTf1nA2IwWy1xXDVgWTIT+OdFDAg==" length="5381481"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 1.8.4</title>
+            <pubDate>Wed, 22 Apr 2026 00:44:45 +0000</pubDate>
+            <sparkle:version>202604220243</sparkle:version>
+            <sparkle:shortVersionString>1.8.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Fehler-Diagnose: Pro Job wird jetzt transcribe.log im Projekt-Ordner live mitgeschrieben. Bei Fehlern stehen die letzten 20 Log-Zeilen direkt in der UI-Error-Message — plus 'Log öffnen'-Button im JobRow für den kompletten Python-Traceback. Transiente Fehler (Deepgram-Timeout, OOM) sind jetzt sofort diagnostizierbar.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v1.8.4/Magic-Cut-1.8.4.dmg"
+                sparkle:edSignature="xLDZHPFzM2zpQyI8T9eyPLwhF+xcyUkYWIh6Agj1r/tB79Y504CJaXfeUbVFUGtu0gAx2PDjlZ83NjsQAE2jAw==" length="5388662"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
