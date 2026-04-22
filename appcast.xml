@@ -599,5 +599,19 @@ Großer QA-Pass: 10 parallele Review-Agents haben 15 kritische Bugs aufgedeckt u
                 sparkle:edSignature="6rPhJJeUHhww/LiHsqm60pwTMhEiXbyE/coNB4Pp7VgAiRxaQIu7E9wJ5wYA/qe6hSQFmxVBBJnpKaw3d5BsAA==" length="5402564"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.1.0</title>
+            <pubDate>Wed, 22 Apr 2026 01:21:50 +0000</pubDate>
+            <sparkle:version>202604220320</sparkle:version>
+            <sparkle:shortVersionString>2.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Sprecher-Zitate jetzt als farbige Quote-Cards: Claude nennt ein Zitat im Format 'Name: "Text"' — die App rendert das als Speaker-Chip in der passenden Farbe aus dem Sprecher-Setup, mit Zitat als italic Pull-Quote. Plus Bug-Fix: Jede neue Claude-Antwort erzeugt jetzt wirklich eine neue Version (vorher wurden Varianten mit teils gleichen Zeiten stillschweigend übersprungen).
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.1.0/Magic-Cut-2.1.0.dmg"
+                sparkle:edSignature="B74Lp5Sgc38Yiwzrw1KVPktkl1xTsz+2VooDntRSq5qq+Qj6l1PVVGm98m+Ee+wzxpBSTNUp+f2SVPSBXLjhAw==" length="5418971"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
