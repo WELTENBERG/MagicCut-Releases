@@ -711,5 +711,19 @@ Claude-Denkprozess wird jetzt im Chat angezeigt (eingeklappt, User kann aufklapp
                 sparkle:edSignature="dm3JXBxSg2g3IirUGUHqAlaPmF/A0/xe7QNonaheVqCNE13uDZ1zuZqymdK9mnAZzvlbEHInSTyxcHFR9PWMCg==" length="5505180"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.3.1</title>
+            <pubDate>Wed, 22 Apr 2026 22:34:58 +0000</pubDate>
+            <sparkle:version>202604230033</sparkle:version>
+            <sparkle:shortVersionString>2.3.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Chat-Geschwindigkeit deutlich verbessert: Neuer Modell-Picker in Settings laesst dich zwischen Opus (beste Qualitaet, 2-4 Min) und Sonnet (~3x schneller, meist gleich gut) waehlen. Plus Live-Timer im Chat-Header waehrend Claude denkt. Timeout auf 15 Minuten erhoeht.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.3.1/Magic-Cut-2.3.1.dmg"
+                sparkle:edSignature="1PKqug+Nie4Mnn+KQ5cUsPYgaQ2QSwnWWEXnXw3YBUqY1busiF9XktcGZCKXfNEU5yHTCQwegIFhk0lbP4GCDQ==" length="5525698"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
