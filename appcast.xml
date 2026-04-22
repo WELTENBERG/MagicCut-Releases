@@ -515,5 +515,19 @@ KI-Merge via Claude Sonnet für semantisch korrekte Sprecher-Zuordnung. Backend-
                 sparkle:edSignature="Qcg4tLGLq7kr4nLI7D3uxgR7DGU0VzQzg2dPQXAfZWg40aiXapybCmWs34HbuPL49Vt2i1LnVWQmvBKzTEE1DQ==" length="5368487"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 1.8.1</title>
+            <pubDate>Wed, 22 Apr 2026 00:11:35 +0000</pubDate>
+            <sparkle:version>202604220210</sparkle:version>
+            <sparkle:shortVersionString>1.8.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Speaker-Bleeding-Fix: Sprecher-Zuweisung pro Wort jetzt per Text-Alignment (Whisper↔Deepgram-Wort matched textuell, nicht nur per Zeit-Überlappung). AI-Merge via Claude Sonnet jetzt default an — korrigiert semantisch die Sprecher-Grenzen die Deepgram manchmal um 1 Wort verschiebt. Word-Timings bleiben wav2vec2-präzise (±20ms, sub-Frame).
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v1.8.1/Magic-Cut-1.8.1.dmg"
+                sparkle:edSignature="4wkP76ePGbUriHElFu1que1z2XVGgyfahNfNysNI5bhdTmFsybAezkgc0cJbZtuSw0XNvAydDrM/ZN+495sSCw==" length="5369314"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
