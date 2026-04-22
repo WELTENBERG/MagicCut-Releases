@@ -627,5 +627,19 @@ Cut-Liste bewahrt jetzt Claudes Story-Reihenfolge (vorher faelschlich nach Start
                 sparkle:edSignature="w2RvAMWfdq4piy8ZZXAsiTfkiiPviaRgykfy6LntgH9srNeKP7nVd/dkYANWZkzFyhHFhvircHw7LYZ3v52kDg==" length="5415952"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.2.0</title>
+            <pubDate>Wed, 22 Apr 2026 17:31:00 +0000</pubDate>
+            <sparkle:version>202604221929</sparkle:version>
+            <sparkle:shortVersionString>2.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Externes-Gerät-Setup: 1-Jahr-Token-Flow direkt im Setup-Wizard (Token wird aus Terminal kopiert und in der App mit Live-Validation gespeichert). Plus neues Setup-Health-Dashboard unter Settings → Installation: zeigt auf einen Blick ob Installation, Claude-CLI, Claude-Token, Deepgram und HuggingFace einsatzbereit sind. README_Installation_DE.md komplett als End-User-Anleitung überarbeitet.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.2.0/Magic-Cut-2.2.0.dmg"
+                sparkle:edSignature="O4UvJzlPmo1EDqHts5TT1iRjKCzfQ6Bi4JDtTanD96KRAp9sVGAmrrVUbPQQ7zAgJbGDbKEPX48Sd/z2YThWAg==" length="5459900"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
