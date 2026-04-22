@@ -571,5 +571,19 @@ Fehler-Diagnose: Pro Job wird jetzt transcribe.log im Projekt-Ordner live mitges
                 sparkle:edSignature="xLDZHPFzM2zpQyI8T9eyPLwhF+xcyUkYWIh6Agj1r/tB79Y504CJaXfeUbVFUGtu0gAx2PDjlZ83NjsQAE2jAw==" length="5388662"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 1.8.5</title>
+            <pubDate>Wed, 22 Apr 2026 00:48:52 +0000</pubDate>
+            <sparkle:version>202604220247</sparkle:version>
+            <sparkle:shortVersionString>1.8.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+BUG-FIX: wav2vec2-Alignment auf MPS crashte mit RuntimeError wegen float16/float32-dtype-Mismatch. Der Cast zu .half() ist entfernt — wav2vec2 läuft jetzt stabil in float32 auf MPS. Das war der Grund warum ZSL2.wav (und andere lange Audios) mit Exit-Code 1 abgebrochen sind.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v1.8.5/Magic-Cut-1.8.5.dmg"
+                sparkle:edSignature="CAPVdEgZdTgmEOCXarL4XGlS5PyFJvk9sPeuc56/iSWEpE51cUVhqq+fmUhzjzFh8EpjuhqNduY3tV9D+nKfDA==" length="5388980"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
