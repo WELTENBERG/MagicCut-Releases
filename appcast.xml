@@ -782,5 +782,19 @@ Audio-Wiedergabe bei geteilten Projekten repariert: Die Tonspur wird jetzt aus e
                 sparkle:edSignature="Rr3LSSjlP5GbqNOOlnvKDTGWbvdCbWi+G5I7Ndyz0P73HvhOtAfLFu6J+7IbL3/hf2uWiOrSAoOvk9TtH0AVCw==" length="5523705"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.3</title>
+            <pubDate>Wed, 27 May 2026 15:08:57 +0000</pubDate>
+            <sparkle:version>202605271707</sparkle:version>
+            <sparkle:shortVersionString>2.4.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Wiedergabe bei langen Aufnahmen jetzt flüssig: Play, Springen und Klicks auf Transkript-Abschnitte reagieren sofort — auch bei mehrstündigen Projekten. Reine Performance-Verbesserung, keine Änderung an Audio oder Sprung-Genauigkeit.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.3/Magic-Cut-2.4.3.dmg"
+                sparkle:edSignature="+uKHodIjA77D5p8LIeo+JBUmZoLfVXCqXoq5vMPXUbn9cZZaGtI0k84NsxVZobC3AGLb/GiCVQp27O1sruFpBw==" length="5530179"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
