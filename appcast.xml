@@ -894,5 +894,19 @@ Behebt 'Prompt is too long' im Chat. Seit dem letzten Update kam das Transkript 
                 sparkle:edSignature="KxxsUua0YGPywGZW8auevx3WX0rl89F70ZC10tR2F2oxXLHe1+3YIRiZ6p5Mrh1gjlww3yMY5fHsMJnRuUTRAA==" length="5669507"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.11</title>
+            <pubDate>Wed, 27 May 2026 20:17:18 +0000</pubDate>
+            <sparkle:version>202605272214</sparkle:version>
+            <sparkle:shortVersionString>2.4.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Neu: Intelligente Sprecher-Erkennung. Neben den Sprecher-Chips gibt es jetzt einen Button 'Namen erkennen'. Claude liest die Selbstvorstellungen im Transkript ('Ja, ich bin der Mario Fingst', 'mein Name ist Henrik Osthold') und schlaegt fuer jeden Sprecher den echten Namen vor - jeweils mit dem Beleg-Zitat. Du pruefst die Vorschlaege in einem Fenster, kannst sie editieren und uebernimmst per Klick (alle oder einzeln).
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.11/Magic-Cut-2.4.11.dmg"
+                sparkle:edSignature="3Sh4xXsxSiBa+MHgbEJ/aSbCzFl1gKm4W5QKJLHbURtJTYM25CnXWVzTd8QjaBqD59B2DUYzlQYLyZvQD/pTDQ==" length="5723149"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
