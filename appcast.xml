@@ -852,5 +852,19 @@ Nachhaltiger Fix fuer abgeschnittene letzte Woerter: Schnitt-Enden rasten jetzt 
                 sparkle:edSignature="C8c4RCzM1+4EotloLjAo6WUgo9eHVxNnUA/2WL5TigZ2M2sc2asTUSWpOhWA0HIeFsKKEIjvEyE/JJcrjaDhDg==" length="5669564"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.8</title>
+            <pubDate>Wed, 27 May 2026 18:20:32 +0000</pubDate>
+            <sparkle:version>202605272018</sparkle:version>
+            <sparkle:shortVersionString>2.4.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Behebt einen Haenger im Chat (drehender Kreis): Bei grossen Transkripten versuchte der Chat-Assistent, ein internes Werkzeug zu benutzen statt direkt zu antworten - der Chat blieb dann im 'denkt...'-Zustand haengen, weil er nur reinen Text verarbeitet. Der Assistent liefert jetzt ausschliesslich Text (Tools deaktiviert) und kann nicht mehr haengenbleiben. Gilt auch fuer die KI-Sprecherzuordnung in der Transkription.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.8/Magic-Cut-2.4.8.dmg"
+                sparkle:edSignature="ivgXkYVPoiFTMfGB1nWvSAQxnfImeL1MhqDB6xQNH5PMJ3gktRAtbPQUawtRQC8HYs4BlndPDRA9ZeCOWeRYCw==" length="5669387"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
