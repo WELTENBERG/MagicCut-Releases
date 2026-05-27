@@ -739,5 +739,20 @@ Keine Black-Box mehr: Waehrend Opus nachdenkt zeigt eine Live-Phase-Anzeige in d
                 sparkle:edSignature="lrdVYMr4NrbNa7hytJ3EKOekksKpvenycPitQquxTqZKDpqz5SO4ZuvCdG4DzKoDOqaMO8hbH3E0u/C3R/FtAg==" length="5514260"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.0</title>
+            <pubDate>Wed, 27 May 2026 11:00:55 +0000</pubDate>
+            <sparkle:version>202605271259</sparkle:version>
+            <sparkle:shortVersionString>2.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+• Batch-Größe passt sich jetzt automatisch an den Arbeitsspeicher deines Macs an – mehr RAM = schnellere Transkription. Manuell übersteuerbar unter Einstellungen → Modell.
+• FCPXML-Dateien von externen Festplatten lassen sich jetzt über den „… auswählen"-Button laden (Berechtigungsfehler auf externen Volumes behoben).
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.0/Magic-Cut-2.4.0.dmg"
+                sparkle:edSignature="+tazPZeoTeMCkkDO8dOlIBp5CLEGCmzo6vcVtjJLMrtM+6p4xUCitIObEOubOb0sJ0rwEFPVFMduTwZI3siVAg==" length="5518589"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
