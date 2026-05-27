@@ -880,5 +880,19 @@ Behebt erfundene Schnitt-Zeitstempel. Bei Folge-Nachrichten hatte der Chat-Assis
                 sparkle:edSignature="4jvqqlxNuhPsYxq4i56VLDj4ZMy0kRmmaEsZb3Ayz9GuAr7LrJEly9YTtMaxmobtpGLm9MaJuf+E9uXDyBWhBg==" length="5668632"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.10</title>
+            <pubDate>Wed, 27 May 2026 19:50:12 +0000</pubDate>
+            <sparkle:version>202605272148</sparkle:version>
+            <sparkle:shortVersionString>2.4.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Behebt 'Prompt is too long' im Chat. Seit dem letzten Update kam das Transkript bei jeder Nachricht mit - zusammen mit der fortlaufenden Sitzung staute sich der Kontext auf, bis er zu gross wurde. Jetzt ist jede Nachricht eigenstaendig: Transkript + ein kompakter Gespraechsverlauf werden frisch mitgegeben, ohne sich aufzustauen. Claude hat die echten Zeiten immer vor sich (keine erfundenen Timecodes) und der Chat laeuft stabil ueber beliebig viele Nachrichten.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.10/Magic-Cut-2.4.10.dmg"
+                sparkle:edSignature="KxxsUua0YGPywGZW8auevx3WX0rl89F70ZC10tR2F2oxXLHe1+3YIRiZ6p5Mrh1gjlww3yMY5fHsMJnRuUTRAA==" length="5669507"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
