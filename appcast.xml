@@ -754,5 +754,19 @@ Keine Black-Box mehr: Waehrend Opus nachdenkt zeigt eine Live-Phase-Anzeige in d
                 sparkle:edSignature="+tazPZeoTeMCkkDO8dOlIBp5CLEGCmzo6vcVtjJLMrtM+6p4xUCitIObEOubOb0sJ0rwEFPVFMduTwZI3siVAg==" length="5518589"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.1</title>
+            <pubDate>Wed, 27 May 2026 13:51:11 +0000</pubDate>
+            <sparkle:version>202605271550</sparkle:version>
+            <sparkle:shortVersionString>2.4.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Geteilte Projekt-Pakete lassen sich wieder per Doppelklick öffnen — Projekte können jetzt zuverlässig zwischen Macs ausgetauscht werden.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.1/Magic-Cut-2.4.1.dmg"
+                sparkle:edSignature="x881Bdz3EhStoU2qbEVg8NzqcRXzT/S7fqG+NwtQW3HxbYzCUQVVFxm7yH7Cs2zijsxkVejMhKniMjvblNWrDg==" length="5523846"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
