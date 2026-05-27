@@ -768,5 +768,19 @@ Geteilte Projekt-Pakete lassen sich wieder per Doppelklick öffnen — Projekte 
                 sparkle:edSignature="x881Bdz3EhStoU2qbEVg8NzqcRXzT/S7fqG+NwtQW3HxbYzCUQVVFxm7yH7Cs2zijsxkVejMhKniMjvblNWrDg==" length="5523846"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.2</title>
+            <pubDate>Wed, 27 May 2026 14:45:40 +0000</pubDate>
+            <sparkle:version>202605271644</sparkle:version>
+            <sparkle:shortVersionString>2.4.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Audio-Wiedergabe bei geteilten Projekten repariert: Die Tonspur wird jetzt aus einer schnellen lokalen Kopie abgespielt statt von der externen Platte oder Cloud — kein Ruckeln mehr beim Play und beim Klick auf Transkript-Abschnitte. Hinweis: Bereits importierte Projekte bitte einmal neu öffnen (Paket erneut per Doppelklick laden), damit die lokale Kopie angelegt wird.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.2/Magic-Cut-2.4.2.dmg"
+                sparkle:edSignature="Rr3LSSjlP5GbqNOOlnvKDTGWbvdCbWi+G5I7Ndyz0P73HvhOtAfLFu6J+7IbL3/hf2uWiOrSAoOvk9TtH0AVCw==" length="5523705"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
