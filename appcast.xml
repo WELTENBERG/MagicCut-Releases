@@ -810,5 +810,19 @@ Neu: Schnitt-Vorschau. Mit 'Vorschau anhören' (neben 'In Final Cut öffnen') h�
                 sparkle:edSignature="xKuYKGqGHIVgReYwP4iu6ZxdLWvGU6z937uRyvHJKkLAgCeAsW1QL7BujUVGOpar82DaUEKjzNAupxvaTdaZAA==" length="5604463"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.5</title>
+            <pubDate>Wed, 27 May 2026 16:41:18 +0000</pubDate>
+            <sparkle:version>202605271839</sparkle:version>
+            <sparkle:shortVersionString>2.4.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Wichtig: FCPXML-Export repariert. Er brauchte bisher 'ffprobe', das nicht mitinstalliert war und den Export mit einer Fehlermeldung abbrechen liess. Die Mediendaten kommen jetzt direkt aus der App, der Export laeuft sofort - ohne Neu-Installation. Ausserdem behoben: kurze Audio-Cuts wurden im reinen Audio-Export auf ein falsches Zeitraster gerundet, jetzt korrekt (25 fps). Neu: Button 'Speichern...' im Cut-Panel exportiert die FCPXML-Datei an einen frei waehlbaren Ort zum Weitergeben - zusaetzlich zu 'In Final Cut oeffnen'.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.5/Magic-Cut-2.4.5.dmg"
+                sparkle:edSignature="zY6deZIMqcuQ7MGwn9BimGbVytDqNjbS8Pt654H+hinK9+PmlbrGeNYhnbb0tjD/PJPjXgNyLijp40nss3bEBw==" length="5619402"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
