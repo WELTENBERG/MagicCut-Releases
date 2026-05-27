@@ -838,5 +838,19 @@ Neu in der Schnitt-Vorschau: Umschalter 'Volltext lesen' zeigt den kompletten zu
                 sparkle:edSignature="HS5N/pzsJuzvVC23RcWx6wCbPZE7CBZnTyGfcMpEjAGJrCLnBac1XNDCV7UoYRRwLpN0Pt14jej90qK27velCg==" length="5661230"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.7</title>
+            <pubDate>Wed, 27 May 2026 17:22:42 +0000</pubDate>
+            <sparkle:version>202605271920</sparkle:version>
+            <sparkle:shortVersionString>2.4.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Nachhaltiger Fix fuer abgeschnittene letzte Woerter: Schnitt-Enden rasten jetzt automatisch auf echte Sprechpausen im Audio ein. Hintergrund: Die automatischen Transkript-Zeitstempel liegen manchmal leicht vor dem echten Ton (Versatz waechst ueber lange Aufnahmen), wodurch ein Cut z.B. bei 'ja' statt 'machen wir nochmal' endete. Statt blindem Puffer misst Magic Cut jetzt den echten Sprech-/Pausen-Rhythmus und beendet jeden Cut an der naechsten natuerlichen Pause - in Vorschau UND Export, automatisch, ohne Neu-Transkribieren. Saubere Cuts bleiben unveraendert, nur knappe Enden werden bis zur Pause verlaengert. Optionaler Extra-Puffer in der Vorschau einstellbar.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.7/Magic-Cut-2.4.7.dmg"
+                sparkle:edSignature="C8c4RCzM1+4EotloLjAo6WUgo9eHVxNnUA/2WL5TigZ2M2sc2asTUSWpOhWA0HIeFsKKEIjvEyE/JJcrjaDhDg==" length="5669564"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
