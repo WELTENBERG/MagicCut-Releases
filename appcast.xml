@@ -866,5 +866,19 @@ Behebt einen Haenger im Chat (drehender Kreis): Bei grossen Transkripten versuch
                 sparkle:edSignature="ivgXkYVPoiFTMfGB1nWvSAQxnfImeL1MhqDB6xQNH5PMJ3gktRAtbPQUawtRQC8HYs4BlndPDRA9ZeCOWeRYCw==" length="5669387"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.9</title>
+            <pubDate>Wed, 27 May 2026 18:40:38 +0000</pubDate>
+            <sparkle:version>202605272038</sparkle:version>
+            <sparkle:shortVersionString>2.4.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Behebt erfundene Schnitt-Zeitstempel. Bei Folge-Nachrichten hatte der Chat-Assistent das Transkript nicht mehr vor sich und schaetzte Zeiten aus dem Gedaechtnis (teils komplett erfunden) - daher sassen Cuts an falschen Stellen. Jetzt bekommt er das Transkript bei JEDER Nachricht in kompakter Satz-Form mit und ist strikt angewiesen, ausschliesslich exakte Zeiten daraus zu nehmen, niemals zu raten. Zusammen mit dem automatischen Einrasten der Cut-Enden auf echte Sprechpausen sitzen die Schnitte jetzt korrekt.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.9/Magic-Cut-2.4.9.dmg"
+                sparkle:edSignature="4jvqqlxNuhPsYxq4i56VLDj4ZMy0kRmmaEsZb3Ayz9GuAr7LrJEly9YTtMaxmobtpGLm9MaJuf+E9uXDyBWhBg==" length="5668632"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
