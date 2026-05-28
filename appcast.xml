@@ -922,5 +922,19 @@ Hotfix: Final Cut oeffnete nur die Tonspur, nicht das Video. Ursache war eine 0-
                 sparkle:edSignature="L3VsbQf+I8qhZUpMz0gUMprBQg/A84t1dhVn6OmHTE1xv79+eTdE5MGTnfGIQwQMX8wGrmh3SxosgVamouVqAA==" length="5726251"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.13</title>
+            <pubDate>Thu, 28 May 2026 08:06:32 +0000</pubDate>
+            <sparkle:version>202605281004</sparkle:version>
+            <sparkle:shortVersionString>2.4.13</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Sprecher-Bereich ueberarbeitet. (1) Die Sprecher-Chip-Leiste mit dem 'Namen erkennen'-Button ist jetzt IMMER sichtbar - auch bei fertig analysierten Projekten und auch wenn die FCPXML noch fehlt. So kannst du die KI-Namens-Erkennung jederzeit anstossen. (2) Pro Sprecher kannst du eine kurze Rollen-Notiz hinterlegen (z.B. 'Kunde', 'Mitarbeiter', 'Moderator') - im Chip per Doppelklick oder Kontextmenue. Die Notiz wird Claude im Chat-Prompt mitgegeben, damit die Cuts die Sprecher-Rollen beruecksichtigen koennen.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.13/Magic-Cut-2.4.13.dmg"
+                sparkle:edSignature="jI9sr5VNOAdqM79ZPMwbhoVkjQJB+JVRdHOe8vslA7dNTd8n2uTJuyV5VV3wf0gF+iIj0h9xeK+Nox4Jkz2jAA==" length="5743003"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
