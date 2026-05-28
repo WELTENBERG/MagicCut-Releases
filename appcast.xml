@@ -950,5 +950,19 @@ Sprecher-Analyse + Schnitt-Endkontrolle: (1) Klick-Bug beim Bearbeiten der Sprec
                 sparkle:edSignature="r1TjKlpdeBw01xULHBrLemiHk57lcCCZy/MNHf7+K3tlTfWtx8q0NACp/fF7QAmS9V9nzXaLUaBTaE6eZFFSBg==" length="5781088"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.15</title>
+            <pubDate>Thu, 28 May 2026 17:58:17 +0000</pubDate>
+            <sparkle:version>202605281956</sparkle:version>
+            <sparkle:shortVersionString>2.4.15</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Paket-Export: ALLES kommt mit. Vor dem Bundeln werden jetzt explizit alle Stores des Projekts auf Disk geflusht (Chat-Verlauf, Cut-Versionen, Sprecher-Registry, Wissen, project.json) — damit auch mid-Stream-Zustand oder gerade laufende Antworten garantiert ins .magiccut-Paket gehen. Beim Export bekommst du eine sichtbare Inhalts-Uebersicht: 'Chat: 14 Nachrichten - Cut-Versionen: 3 - Sprecher: 5 - Wissen: 2 - FCPXML-Timeline: ja'. Die Uebersicht wird auch im Paket-Manifest gespeichert. Hinweis: dein bestehendes geteiltes Paket ist VOR deinen Chats erstellt worden - exportier es nochmal frisch von der Quell-Maschine, dann ist der Chat auf dem Ziel-Rechner da. Importierte Pakete laden Chat/Versionen/Sprecher/Wissen unveraendert lazy von Disk - alles, was im Paket ist, ist nach dem Oeffnen drin.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.15/Magic-Cut-2.4.15.dmg"
+                sparkle:edSignature="a5IRWwZH/0RVoYatYpjnEn4cnddOOunXO5nKgN0ADU+SjUyEcoLCtA7opnpkW//aTIVkzm3nSwOAttTp3Y2ECw==" length="5784773"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
