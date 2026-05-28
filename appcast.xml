@@ -936,5 +936,19 @@ Sprecher-Bereich ueberarbeitet. (1) Die Sprecher-Chip-Leiste mit dem 'Namen erke
                 sparkle:edSignature="jI9sr5VNOAdqM79ZPMwbhoVkjQJB+JVRdHOe8vslA7dNTd8n2uTJuyV5VV3wf0gF+iIj0h9xeK+Nox4Jkz2jAA==" length="5743003"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.14</title>
+            <pubDate>Thu, 28 May 2026 09:01:23 +0000</pubDate>
+            <sparkle:version>202605281059</sparkle:version>
+            <sparkle:shortVersionString>2.4.14</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Sprecher-Analyse + Schnitt-Endkontrolle: (1) Klick-Bug beim Bearbeiten der Sprecher-Notiz behoben (Sheet statt Popover). (2) Sprecher-Analyse schlaegt jetzt Namen UND Rolle vor (z.B. Aussendienstler, Geschaeftsfuehrer). (3) Off-Mic-Erkennung per Lautstaerke-Analyse (lokal, AVAudioFile+vDSP). Off-Mic-Sprecher (typisch Interviewer ohne eigenes Mikro) bekommen ein durchgestrichenes Mikro am Chip; manuell jederzeit ueberschreibbar. Strenges Konfidenz-Gate verhindert Falsch-Labels bei normalisierten Aufnahmen (Zoom/Teams). Claude bekommt das Flag im Cut-Prompt mit Warnhinweis. (4) Bi-direktionales Cut-Snapping: Cut-Start UND Cut-Ende rasten jetzt auf echte Sprechpausen ein - behebt strukturell den Anfang-weggeschnitten-Fall. (5) Final Cut Pro wird nach dem Export NICHT mehr automatisch geoeffnet. Der Schnitt-Export erstellt eine neue Version; Final Cut oeffnest du bewusst per Play-Symbol an der Version.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.14/Magic-Cut-2.4.14.dmg"
+                sparkle:edSignature="r1TjKlpdeBw01xULHBrLemiHk57lcCCZy/MNHf7+K3tlTfWtx8q0NACp/fF7QAmS9V9nzXaLUaBTaE6eZFFSBg==" length="5781088"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
