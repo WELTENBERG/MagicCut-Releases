@@ -964,5 +964,19 @@ Paket-Export: ALLES kommt mit. Vor dem Bundeln werden jetzt explizit alle Stores
                 sparkle:edSignature="a5IRWwZH/0RVoYatYpjnEn4cnddOOunXO5nKgN0ADU+SjUyEcoLCtA7opnpkW//aTIVkzm3nSwOAttTp3Y2ECw==" length="5784773"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.16</title>
+            <pubDate>Thu, 28 May 2026 18:07:19 +0000</pubDate>
+            <sparkle:version>202605282006</sparkle:version>
+            <sparkle:shortVersionString>2.4.16</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Paket = Source of Truth (automatischer Re-Sync). Wenn du ein .magiccut-Paket per Doppelklick oeffnest und darin arbeitest, werden ALLE Aenderungen (Chat-Verlauf, Cut-Versionen, Sprecher mit Notizen, Wissens-Eintraege, FCPXML) automatisch nach 2 Sekunden ins urspruengliche Paket zurueckgeschrieben. Kein manuelles Re-Exportieren mehr noetig - das Paket ist live. Auf jedem Rechner, der das Paket oeffnet, landet man im aktuellen Stand. Media (Audio-WAV) bleibt unangetastet - die ist beim Erstexport schon im Paket und veraendert sich nicht. Der Re-Sync ist debounced: viele schnelle Aenderungen (z.B. waehrend Chat-Streaming) werden zu EINEM Schreibvorgang zusammengefasst. TranscriptionJob bekommt ein optionales bundleHomeURL-Feld (persistiert in project.json), das beim Import gesetzt und beim Laden wieder hergestellt wird. Jeder Save in ClaudeChat / SpeakerRegistry / CutVersionStore / KnowledgeStore triggert JobQueue.scheduleBundleResync. MagicCut-Info.json im Paket wird bei jedem Sync mit aktualisiertem Zeitstempel + Inhalts-Uebersicht ueberschrieben.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.16/Magic-Cut-2.4.16.dmg"
+                sparkle:edSignature="8LPlq5wS4p109THlkiV2UVrHVJcWVLpcwV7usTNAOHZSvpHTKQv2LevWuQfV72Qwio6RU8WK+hkVh8N53nuNDg==" length="5789918"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
