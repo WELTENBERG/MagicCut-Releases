@@ -908,5 +908,19 @@ Neu: Intelligente Sprecher-Erkennung. Neben den Sprecher-Chips gibt es jetzt ein
                 sparkle:edSignature="3Sh4xXsxSiBa+MHgbEJ/aSbCzFl1gKm4W5QKJLHbURtJTYM25CnXWVzTd8QjaBqD59B2DUYzlQYLyZvQD/pTDQ==" length="5723149"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.12</title>
+            <pubDate>Thu, 28 May 2026 07:50:23 +0000</pubDate>
+            <sparkle:version>202605280949</sparkle:version>
+            <sparkle:shortVersionString>2.4.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Hotfix: Final Cut oeffnete nur die Tonspur, nicht das Video. Ursache war eine 0-Byte source.fcpxml im Projekt: der Re-Attach-Gate erschien nicht und der Export fiel still in den Audio-only-Fallback. Jetzt: Leere oder kaputte source.fcpxml beim Laden wie nicht-vorhanden behandeln (Gate erscheint, du kannst die echte FCPXML einfach nachziehen). Beim Anhaengen werden 0-Byte- und Nicht-XML-Dateien mit klarer Fehlermeldung abgelehnt. Und beim Paket-Export werden 0-Byte source.fcpxml nicht mehr eingepackt, damit sich das Problem nicht weiterverbreitet.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.12/Magic-Cut-2.4.12.dmg"
+                sparkle:edSignature="L3VsbQf+I8qhZUpMz0gUMprBQg/A84t1dhVn6OmHTE1xv79+eTdE5MGTnfGIQwQMX8wGrmh3SxosgVamouVqAA==" length="5726251"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
