@@ -992,5 +992,19 @@ Mediathek-Modell (wie Final Cut): (1) Wenn ein Drop sowohl Audio/Video als auch 
                 sparkle:edSignature="27f6Dq78ePaGsTfcPUR6MiN1fC4cgzTH7pswQAO+Mb0QHHX37PEGV0xyjUjxRVI3Ps7IObqWQm3lxb2gQjVyDQ==" length="5800128"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.18</title>
+            <pubDate>Tue, 16 Jun 2026 15:15:44 +0000</pubDate>
+            <sparkle:version>202606161714</sparkle:version>
+            <sparkle:shortVersionString>2.4.18</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Der Magic-Cut-Chat nutzt jetzt Claude Opus 4.8 — Anthropics neuestes Spitzenmodell. Bessere Story-Intuition und treffsicherere Cut-Vorschläge, bei gleicher Bedienung.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.18/Magic-Cut-2.4.18.dmg"
+                sparkle:edSignature="ZJ+LYjs7SZ4rVJwMlYQgX/ni2a3bfpaaGHvIfcBpxt3kMZFZUh2JrUm7VqpRzBR9opybvpzbjqlUJ3Kbap75BQ==" length="5801019"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
