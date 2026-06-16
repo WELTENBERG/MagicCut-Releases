@@ -1062,5 +1062,21 @@ Multitrack-Bleed-Filter: Wenn Sprecher nebeneinander sitzen, nimmt jedes Mikro d
                 sparkle:edSignature="LiORyGhTIUENZglWMJto/bgPA54btQIqULdPu/Z0wlN7IW9jjOb22h/9838e9GgYjc/a5HhX1X9phAtsYz0lAw==" length="5809616"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.23</title>
+            <pubDate>Tue, 16 Jun 2026 23:16:22 +0000</pubDate>
+            <sparkle:version>202606170114</sparkle:version>
+            <sparkle:shortVersionString>2.4.23</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+„Perfekt sauber"-Schalter (Schnitt-Vorschau): Die Cut-Grenzen sitzen jetzt wortgenau — keine Nachbarwörter oder Regie-Einwürfe mehr vor oder nach dem Satz. Standardmäßig aus; in der Vorschau einschalten und den Unterschied direkt hören. Gilt auch für den Export.
+
+Mediathek – alles im Paket: Jedes Projekt wird vollständig im .magiccut-Paket gespeichert (Audio, Transkript, Chat, Cuts, Sprecher, Wissen) — jetzt auch reine Audio-Projekte. Beim Beenden wird der letzte Stand sofort gesichert, und im Transkript-Header siehst du, ob das Projekt in einer Mediathek liegt. So ist beim Verschieben auf einen anderen Mac garantiert alles dabei.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.23/Magic-Cut-2.4.23.dmg"
+                sparkle:edSignature="TTNbNryMBdbj5rUJBHQ2fwE5nsEphTzgu9r5Lx+tGs0VxN3mHIzv3mhi4r6UI5hvhPmDq/eTO1STLtQ2eLWyAw==" length="5871315"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
