@@ -1034,5 +1034,19 @@ Neu: Multitrack. Ziehst du mehrere Audio-Spuren EINER Aufnahme rein (z. B. pro S
                 sparkle:edSignature="aoAqo5B5c6URn/5flI+AYoLmFyGvFHnK8aC6hhik6WF3YhQmrU9t0+Vw9wwWA2UhKXZdaEzpqavBDkInV3QvDQ==" length="5829467"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.21</title>
+            <pubDate>Tue, 16 Jun 2026 16:53:10 +0000</pubDate>
+            <sparkle:version>202606161851</sparkle:version>
+            <sparkle:shortVersionString>2.4.21</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Multitrack-Wiedergabe: Beim Abspielen und in der Cut-Vorschau hörst du jetzt ALLE Sprecher (automatischer Mixdown aller Spuren) statt nur der ersten. Transkription, Schnitt und FCPXML-Export bleiben unverändert.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.21/Magic-Cut-2.4.21.dmg"
+                sparkle:edSignature="tRNeAgFFJBGbc/tSXJgc1Pdy/5RL7V+z0KQq6fdOI8BCuElDeBG4VutAAd4F99izTvEIqcsyFDwuVtnxVXBrAQ==" length="5809010"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
