@@ -1048,5 +1048,19 @@ Multitrack-Wiedergabe: Beim Abspielen und in der Cut-Vorschau hörst du jetzt AL
                 sparkle:edSignature="tRNeAgFFJBGbc/tSXJgc1Pdy/5RL7V+z0KQq6fdOI8BCuElDeBG4VutAAd4F99izTvEIqcsyFDwuVtnxVXBrAQ==" length="5809010"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.22</title>
+            <pubDate>Tue, 16 Jun 2026 17:01:24 +0000</pubDate>
+            <sparkle:version>202606161900</sparkle:version>
+            <sparkle:shortVersionString>2.4.22</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Multitrack-Bleed-Filter: Wenn Sprecher nebeneinander sitzen, nimmt jedes Mikro den anderen leise mit (Übersprechen). Magic Cut filtert das jetzt automatisch — pro Wort gewinnt das lauteste Mikro, der leise Durchschlag des Nachbarn fliegt raus. Echtes gleichzeitiges Reden (beide ähnlich laut) bleibt erhalten.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.22/Magic-Cut-2.4.22.dmg"
+                sparkle:edSignature="LiORyGhTIUENZglWMJto/bgPA54btQIqULdPu/Z0wlN7IW9jjOb22h/9838e9GgYjc/a5HhX1X9phAtsYz0lAw==" length="5809616"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
