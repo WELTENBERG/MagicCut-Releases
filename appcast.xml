@@ -1020,5 +1020,19 @@ Sprecher-Zuordnung deutlich robuster: Der KI-Merge läuft jetzt auf Claude Opus 
                 sparkle:edSignature="JDKdKGHMlnOXiCvQih7hKwI7fC1X7IgOXQgSYFAX7Vre/HnM8CE4OQtRmcSIyxElDMOwkSijxjGGfDHwP0vJDQ==" length="5802078"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.20</title>
+            <pubDate>Tue, 16 Jun 2026 16:43:09 +0000</pubDate>
+            <sparkle:version>202606161841</sparkle:version>
+            <sparkle:shortVersionString>2.4.20</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Neu: Multitrack. Ziehst du mehrere Audio-Spuren EINER Aufnahme rein (z. B. pro Sprecher ein Mikro / Final-Cut-Rollen-Export), fragt Magic Cut kurz nach und transkribiert jede Spur einzeln — ein Sprecher pro Spur, zeitrichtig zu EINEM Transkript zusammengeführt. Kein Sprecher-Durcheinander mehr bei gleichzeitigem Reden, frame-genaue Wort-Timings bleiben erhalten. Tipp: In Final Cut jedem Sprecher eine eigene Rolle geben und über Ablage › Teilen › Datei exportieren › „Nur Ton als separate Dateien" exportieren.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.20/Magic-Cut-2.4.20.dmg"
+                sparkle:edSignature="aoAqo5B5c6URn/5flI+AYoLmFyGvFHnK8aC6hhik6WF3YhQmrU9t0+Vw9wwWA2UhKXZdaEzpqavBDkInV3QvDQ==" length="5829467"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
