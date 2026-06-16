@@ -1006,5 +1006,19 @@ Der Magic-Cut-Chat nutzt jetzt Claude Opus 4.8 — Anthropics neuestes Spitzenmo
                 sparkle:edSignature="ZJ+LYjs7SZ4rVJwMlYQgX/ni2a3bfpaaGHvIfcBpxt3kMZFZUh2JrUm7VqpRzBR9opybvpzbjqlUJ3Kbap75BQ==" length="5801019"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.19</title>
+            <pubDate>Tue, 16 Jun 2026 16:15:57 +0000</pubDate>
+            <sparkle:version>202606161814</sparkle:version>
+            <sparkle:shortVersionString>2.4.19</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Sprecher-Zuordnung deutlich robuster: Der KI-Merge läuft jetzt auf Claude Opus 4.8, bekommt Deepgrams Sicherheits-Score pro Wort und entscheidet bei gleichzeitigem Sprechen über den Sinn-Zusammenhang statt blind dem Timing zu folgen. Neue Wort-Schutz-Sicherung garantiert, dass die KI-Korrektur die Wortgenauigkeit niemals verschlechtert. Der KI-Merge läuft ab jetzt zuverlässig automatisch.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.19/Magic-Cut-2.4.19.dmg"
+                sparkle:edSignature="JDKdKGHMlnOXiCvQih7hKwI7fC1X7IgOXQgSYFAX7Vre/HnM8CE4OQtRmcSIyxElDMOwkSijxjGGfDHwP0vJDQ==" length="5802078"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
