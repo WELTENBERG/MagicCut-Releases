@@ -1152,5 +1152,21 @@ Bestehende Projekte (von vor den letzten Updates) justieren sich jetzt beim Öff
                 sparkle:edSignature="9/5iDVISWhMz6Q9o9iDULUCwxpVSjAvLIMqQFGGp/kOamXTyvopCfRYu2uqJu8xB+LqhyQ4AsHWGGz2Iu5xBBg==" length="5912901"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.28</title>
+            <pubDate>Wed, 17 Jun 2026 12:44:09 +0000</pubDate>
+            <sparkle:version>202606171442</sparkle:version>
+            <sparkle:shortVersionString>2.4.28</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Pausen bleiben jetzt wirklich natürlich: Der Schnitt entfernt nicht mehr von sich aus Pausen — auch nicht bei „virale/kurze/schnelle Version". Pausen werden NUR rausgeschnitten, wenn du es ausdrücklich sagst („machs straff, ohne Pausen" / „Jump-Cut"). Standard ist „natürlich": die echten Sprech-Pausen bleiben, nur tote Stille am Wortende wird sauber gemacht und Pointen dürfen atmen.
+
+Final Cut / Multicam: Beim erneuten Öffnen eines Schnitts in Final Cut wird jetzt die bestehende (z.B. von dir gegradete) Multicam wiederverwendet, statt jedes Mal eine neue anzulegen — der Export behält die Event-Kennung des Original-Projekts.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.28/Magic-Cut-2.4.28.dmg"
+                sparkle:edSignature="gdp7n3LG0GdOzUwIP87OwQeHw95j70BfoKJy9nYqyHd3sBDaYPwT4w/lfcrkDibnSHeoeMmdg7K6adSJ2AkuAg==" length="5912958"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
