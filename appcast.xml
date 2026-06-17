@@ -1100,5 +1100,25 @@ Word-Alignment-Option entfernt — es wird immer das präzise wav2vec2 verwendet
                 sparkle:edSignature="PrJWupWcKnn1VdecAP0GLmUiIGz/XilEmV65FV8cyeFRFTnQqtk+dCPM0grvwmMUoKRAiLT2I4D8uFNo0TJFCA==" length="5877325"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.25</title>
+            <pubDate>Wed, 17 Jun 2026 08:19:58 +0000</pubDate>
+            <sparkle:version>202606171018</sparkle:version>
+            <sparkle:shortVersionString>2.4.25</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Endpausen-Heilung: Wenn die Worterkennung das letzte Wort über die echte Stille gezogen hat (1–2 s Stille am Satzende), schneidet Magic Cut das jetzt sauber weg — gemessen am echten Ton. Neue Aufnahmen sind dabei schon bei der Transkription wortgenau getrimmt; für bestehende Projekte gibt es im Transkript-Kopf den Knopf „Endpausen nachjustieren" (kein Neu-Transkribieren nötig).
+
+Pausen / Tempo: Zwei Schalter in den Einstellungen — „Endpausen straffen" und „Mittenpausen entfernen (Jump Cuts)" — plus Steuerung per Chat: sag „machs straff / ohne Pausen" für schnelle Social-Cuts oder „natürliche Pausen", damit es atmet. Standard: natürlich (Endpausen weg, Mittenpausen bleiben). Jede Version merkt sich ihr Tempo.
+
+Final Cut: Exportierte Schnitte heißen jetzt pro Version (z.B. „… Magic Cut v1.6") — keine „ersetzen oder beide behalten?"-Doppelung mehr beim Import.
+
+Sprecher: Die Chips sind aufgeräumt — Rolle und Infos erscheinen jetzt per Klick im Popover statt als zweite Zeile unter dem Namen.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.25/Magic-Cut-2.4.25.dmg"
+                sparkle:edSignature="CTkz0M7pQVw6WDqFD2FUUCy+Kq92ifuqNf9v5MO8FRpas98htupuyp1Q8uuiuGGvOTrJUVSILz9/C0m6f28rAA==" length="5914212"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
