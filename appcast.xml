@@ -1120,5 +1120,23 @@ Sprecher: Die Chips sind aufgeräumt — Rolle und Infos erscheinen jetzt per Kl
                 sparkle:edSignature="CTkz0M7pQVw6WDqFD2FUUCy+Kq92ifuqNf9v5MO8FRpas98htupuyp1Q8uuiuGGvOTrJUVSILz9/C0m6f28rAA==" length="5914212"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.26</title>
+            <pubDate>Wed, 17 Jun 2026 09:46:58 +0000</pubDate>
+            <sparkle:version>202606171145</sparkle:version>
+            <sparkle:shortVersionString>2.4.26</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Natürliche Pausen sind jetzt der Standard — der Schnitt-Stil, der zuletzt so gut funktioniert hat: innen straff (lange Hänger im Satz fliegen raus, jeder Satz sticht), aber nach einer Pointe bleibt ein kurzer Atem stehen, damit sie wirkt. Klingt authentisch statt abgehackt.
+
+Ein Schalter steuert alles (Einstellungen → Pausen/Tempo): „Natürliche Pausen" an = dieser Stil; aus = extrem wortgenau, ohne Pausen (Jump-Cut). Im Chat jederzeit übersteuerbar — sag „machs extrem straff, ohne Pausen" oder „leg natürliche Pausen rein, lass die Pointen atmen".
+
+Außerdem: Magic Cut erkennt jetzt immer das echte Tonende und entfernt von der Worterkennung zu lang gezogene Endpausen zuverlässig — in beiden Modi.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.26/Magic-Cut-2.4.26.dmg"
+                sparkle:edSignature="WkX2BtK8Loh3G+zqiIIFQRBN48xXWPdbOslJmNISlpHWXU65gNh7IsHTRiRW6ITEcjfpUu+uXr6shA8GtqDnAQ==" length="5913092"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
