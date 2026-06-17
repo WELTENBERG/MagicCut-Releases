@@ -1243,5 +1243,19 @@ Hotfix »FCPXML ersetzen…«: Final-Cut-Exporte im .fcpxmld-Bundle-Format lasse
                 sparkle:edSignature="ffzMfOTshhLMYFc9uzBQcryr/OPquLdJQOwUCiV1Oq2Kgz2zxNca6E19xeGGKGi0S0/4NOp3aA/ykz8Mslm9DA==" length="5930128"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.34</title>
+            <pubDate>Wed, 17 Jun 2026 21:17:14 +0000</pubDate>
+            <sparkle:version>202606172316</sparkle:version>
+            <sparkle:shortVersionString>2.4.34</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Schnitt-Export repariert für Quellen mit Compound-Clips (z.B. vertikaler Reframe mit »oben/unten«-Korrektur): Der Export las bisher die erste <sequence> im Dokument — bei einem Compound-Clip war das dessen interne Einzelclip-Sequence statt der echten Multicam-Timeline, wodurch der Schnitt in lose Einzelclips zerfiel. Jetzt wird gezielt die Projekt-Sequence verwendet → saubere Multicam-Schnitte (mc-clips), auch bei vertikalen/komplexen Final-Cut-Projekten.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.34/Magic-Cut-2.4.34.dmg"
+                sparkle:edSignature="Ew3fD2pPkxgOmSXsChUE9Lj+b4aCehx78aohy3PM5+tS1KJXBNbfzSKwMBEP1U2Y6l2oIIml/1AkBB45VTovAg==" length="5929294"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
