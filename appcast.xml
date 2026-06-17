@@ -1168,5 +1168,24 @@ Final Cut / Multicam: Beim erneuten Öffnen eines Schnitts in Final Cut wird jet
                 sparkle:edSignature="gdp7n3LG0GdOzUwIP87OwQeHw95j70BfoKJy9nYqyHd3sBDaYPwT4w/lfcrkDibnSHeoeMmdg7K6adSJ2AkuAg==" length="5912958"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.29</title>
+            <pubDate>Wed, 17 Jun 2026 13:16:57 +0000</pubDate>
+            <sparkle:version>202606171515</sparkle:version>
+            <sparkle:shortVersionString>2.4.29</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Wichtiger Stabilitäts- und Datenschutz-Fix:
+
+• Ein Magic-Cut-Paket ist jetzt nur noch EINMAL offen. Öffnest du ein Paket, das schon offen ist (oder doppelklickst mehrfach), wird das bestehende Projekt ausgewählt — es entstehen keine Dubletten mehr in der Übersicht. Beim Start wird pro Paket nur ein Projekt gezeigt.
+• Datenschutz beim Sichern: Vorhandene Inhalte im Paket (z.B. dein Chatverlauf) werden nicht mehr versehentlich mit leeren Daten überschrieben.
+
+Hinweis: Ein Paket sollte nicht gleichzeitig auf zwei Macs bearbeitet werden — am besten nacheinander.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.29/Magic-Cut-2.4.29.dmg"
+                sparkle:edSignature="GLw564Gz90o1WiZGMobA93eNQ8BHbaV42K1rfC4GbSni2yWyp8jnijnL350A+NgYTbFPjtsGn6KOD0gRIry8Cw==" length="5915334"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
