@@ -1187,5 +1187,19 @@ Hinweis: Ein Paket sollte nicht gleichzeitig auf zwei Macs bearbeitet werden —
                 sparkle:edSignature="GLw564Gz90o1WiZGMobA93eNQ8BHbaV42K1rfC4GbSni2yWyp8jnijnL350A+NgYTbFPjtsGn6KOD0gRIry8Cw==" length="5915334"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.30</title>
+            <pubDate>Wed, 17 Jun 2026 13:43:48 +0000</pubDate>
+            <sparkle:version>202606171542</sparkle:version>
+            <sparkle:shortVersionString>2.4.30</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Multicam-Wiederverwendung (Final Cut): Exportierte Schnitte beanspruchen jetzt keine veraltete Multicam-Revision mehr (das interne Änderungsdatum wird weggelassen, die Kennung bleibt). Final Cut soll dadurch die BESTEHENDE Multicam aus deiner Library behalten — inklusive eines später ergänzten Gradings — statt bei jedem Re-Import eine neue Kopie anzulegen. Wichtig: bitte mit einem FRISCH exportierten Schnitt und an einer Library-Kopie testen.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.30/Magic-Cut-2.4.30.dmg"
+                sparkle:edSignature="oDgxO8feGkthFWMMBqOTkmV+Q0t7cV98pkR8EIuHX7FoSjeQa4K4TpdP1EuefvpwOYZbkHRPhryCTPmCJ9VFCA==" length="5916130"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
