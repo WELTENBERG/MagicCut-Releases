@@ -1215,5 +1215,19 @@ Nur noch EIN Fenster: Doppelklick aufs Magic-Cut-Paket öffnet kein zweites Fens
                 sparkle:edSignature="kTPj81YsfJbfuorbdvgHbfa4GT3kNl/A96RhJM47KgSfR7RGebS7992+auSV4ThiNF+uP5d7hm2NHDiXW07kBA==" length="5928297"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.32</title>
+            <pubDate>Wed, 17 Jun 2026 17:12:16 +0000</pubDate>
+            <sparkle:version>202606171910</sparkle:version>
+            <sparkle:shortVersionString>2.4.32</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Hotfix »FCPXML ersetzen…«: Final-Cut-Exporte im .fcpxmld-Bundle-Format lassen sich jetzt auswählen. Der Datei-Typ-Filter hatte das Paket fälschlich ausgegraut — er ist raus, die Prüfung (richtige FCPXML?) passiert beim Übernehmen.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.32/Magic-Cut-2.4.32.dmg"
+                sparkle:edSignature="BOHnSk1hbJwXARoy5WeDHTVsf2PGRXLiTfAsxqfSzCyCD5hV4YpD5oRFSQsAxGd29FfwMkoJc0Zz7YPt9pGPBA==" length="5927683"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
