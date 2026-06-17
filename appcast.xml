@@ -1201,5 +1201,19 @@ Multicam-Wiederverwendung (Final Cut): Exportierte Schnitte beanspruchen jetzt k
                 sparkle:edSignature="oDgxO8feGkthFWMMBqOTkmV+Q0t7cV98pkR8EIuHX7FoSjeQa4K4TpdP1EuefvpwOYZbkHRPhryCTPmCJ9VFCA==" length="5916130"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.31</title>
+            <pubDate>Wed, 17 Jun 2026 14:51:11 +0000</pubDate>
+            <sparkle:version>202606171649</sparkle:version>
+            <sparkle:shortVersionString>2.4.31</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Nur noch EIN Fenster: Doppelklick aufs Magic-Cut-Paket öffnet kein zweites Fenster mehr, sondern holt das offene nach vorn. Neuer Knopf im Magic-Cut-Tab: »FCPXML ersetzen…« tauscht die FCP-Quelle (Multicam + Format) gegen einen frischen Final-Cut-Export — Transkript, Cuts und Versionen bleiben unverändert.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.31/Magic-Cut-2.4.31.dmg"
+                sparkle:edSignature="kTPj81YsfJbfuorbdvgHbfa4GT3kNl/A96RhJM47KgSfR7RGebS7992+auSV4ThiNF+uP5d7hm2NHDiXW07kBA==" length="5928297"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
