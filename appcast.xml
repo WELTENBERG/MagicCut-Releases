@@ -1138,5 +1138,19 @@ Außerdem: Magic Cut erkennt jetzt immer das echte Tonende und entfernt von der 
                 sparkle:edSignature="WkX2BtK8Loh3G+zqiIIFQRBN48xXWPdbOslJmNISlpHWXU65gNh7IsHTRiRW6ITEcjfpUu+uXr6shA8GtqDnAQ==" length="5913092"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.27</title>
+            <pubDate>Wed, 17 Jun 2026 10:48:16 +0000</pubDate>
+            <sparkle:version>202606171247</sparkle:version>
+            <sparkle:shortVersionString>2.4.27</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Bestehende Projekte (von vor den letzten Updates) justieren sich jetzt beim Öffnen automatisch einmal nach — zu lang gezogene Endpausen werden direkt im Transkript sauber gemacht, ganz ohne Knopfdruck. Läuft kurz im Hintergrund („Wort-Timings werden optimiert…") und danach nie wieder. Neue Aufnahmen sind ohnehin ab Werk sauber.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.27/Magic-Cut-2.4.27.dmg"
+                sparkle:edSignature="9/5iDVISWhMz6Q9o9iDULUCwxpVSjAvLIMqQFGGp/kOamXTyvopCfRYu2uqJu8xB+LqhyQ4AsHWGGz2Iu5xBBg==" length="5912901"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
