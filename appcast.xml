@@ -1078,5 +1078,27 @@ Mediathek – alles im Paket: Jedes Projekt wird vollständig im .magiccut-Paket
                 sparkle:edSignature="TTNbNryMBdbj5rUJBHQ2fwE5nsEphTzgu9r5Lx+tGs0VxN3mHIzv3mhi4r6UI5hvhPmDq/eTO1STLtQ2eLWyAw==" length="5871315"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.24</title>
+            <pubDate>Wed, 17 Jun 2026 06:33:27 +0000</pubDate>
+            <sparkle:version>202606170832</sparkle:version>
+            <sparkle:shortVersionString>2.4.24</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Versions-Auswahl: Ältere Schnitt-Versionen unten rechts anklicken → in der Vorschau anhören, speichern und nach Final Cut exportieren. Jede Version ist exakt reproduzierbar.
+
+„Schnitt exportieren" legt keine doppelten Versionen mehr an — der Button exportiert die ausgewählte Version. Neue Versionen entstehen automatisch, sobald Claude neue Cuts liefert.
+
+„Perfekt sauber" ist jetzt Standard (Einstellungen → Schnitt-Grenzen). Der Schalter in der Vorschau übersteuert nur für die aktuelle Sitzung und springt beim Schließen auf den Standard zurück.
+
+„Im Finder" und „Speichern…" zeigen jetzt auf die Mediathek (.magiccut) statt auf den internen Arbeitsordner.
+
+Word-Alignment-Option entfernt — es wird immer das präzise wav2vec2 verwendet.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.24/Magic-Cut-2.4.24.dmg"
+                sparkle:edSignature="PrJWupWcKnn1VdecAP0GLmUiIGz/XilEmV65FV8cyeFRFTnQqtk+dCPM0grvwmMUoKRAiLT2I4D8uFNo0TJFCA==" length="5877325"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
