@@ -1229,5 +1229,19 @@ Hotfix »FCPXML ersetzen…«: Final-Cut-Exporte im .fcpxmld-Bundle-Format lasse
                 sparkle:edSignature="BOHnSk1hbJwXARoy5WeDHTVsf2PGRXLiTfAsxqfSzCyCD5hV4YpD5oRFSQsAxGd29FfwMkoJc0Zz7YPt9pGPBA==" length="5927683"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.33</title>
+            <pubDate>Wed, 17 Jun 2026 17:28:29 +0000</pubDate>
+            <sparkle:version>202606171927</sparkle:version>
+            <sparkle:shortVersionString>2.4.33</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+»FCPXML ersetzen…«: jetzt sind im Auswahl-Dialog GENAU nur Final-Cut-XML-Dateien (.fcpxml und .fcpxmld-Bundle) wählbar — alles andere (z.B. .magiccut-Pakete) ist wieder korrekt ausgegraut. Gelöst über die exakten Final-Cut-UTIs statt der unzuverlässigen Endungs-Ableitung.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.33/Magic-Cut-2.4.33.dmg"
+                sparkle:edSignature="ffzMfOTshhLMYFc9uzBQcryr/OPquLdJQOwUCiV1Oq2Kgz2zxNca6E19xeGGKGi0S0/4NOp3aA/ykz8Mslm9DA==" length="5930128"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
