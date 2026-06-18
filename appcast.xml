@@ -1357,5 +1357,19 @@ Neu in 2.4.41:
                 sparkle:edSignature="zczWBmmMO7yq7SRwiTvvIxxrb3oJBaefhft00REQgmMhSINcMZiinUyPjAhQwgYKBzB66hXgdbX1XNHhjcwjAA==" length="6095201"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.42</title>
+            <pubDate>Thu, 18 Jun 2026 23:04:22 +0000</pubDate>
+            <sparkle:version>202606190103</sparkle:version>
+            <sparkle:shortVersionString>2.4.42</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Cut-Liste & Editor verbessert: Die Cut-Liste zeigt jetzt den gesprochenen Volltext und sieht aus wie die Transkript-Vorschau — ein Klick auf ein Segment markiert es und spielt es ab. Den großen Editor kannst du jetzt fuer jede Version einzeln oeffnen, jeweils mit eigenem Chat; beim Verlassen entsteht daraus eine neue Version. Ausserdem oeffnet "In Final Cut" jetzt wirklich Final Cut.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.42/Magic-Cut-2.4.42.dmg"
+                sparkle:edSignature="l/MoINlJSMl+lsPhpwH0JS3HiyFMlU86AyA8wIYGgsx+EH83QPVUKp+z0Mfct6uY6Z4rqtUIJEK10AGgIFSCDw==" length="6135388"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
