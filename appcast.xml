@@ -1371,5 +1371,19 @@ Cut-Liste & Editor verbessert: Die Cut-Liste zeigt jetzt den gesprochenen Vollte
                 sparkle:edSignature="l/MoINlJSMl+lsPhpwH0JS3HiyFMlU86AyA8wIYGgsx+EH83QPVUKp+z0Mfct6uY6Z4rqtUIJEK10AGgIFSCDw==" length="6135388"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.43</title>
+            <pubDate>Thu, 18 Jun 2026 23:50:23 +0000</pubDate>
+            <sparkle:version>202606190149</sparkle:version>
+            <sparkle:shortVersionString>2.4.43</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Neu: "Im Web teilen" — laedt dein analysiertes Projekt in die Cloud. Im Browser (mc.weltberg.one/app) koennt ihr es dann ansehen, die Cut-Liste bearbeiten (umsortieren/ausblenden/loeschen) und an alle oder einzelne Kollegen freigeben — ganz ohne Mac. Die grosse Originaldatei bleibt bei dir; hochgeladen wird nur eine kleine Vorschau.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.43/Magic-Cut-2.4.43.dmg"
+                sparkle:edSignature="0M/H6VJJfvasW0Ijh4W9nDduOuepHs1e3fcZZOt1or8byifBJrRQyMSicF5ob4HV2wNG3qnVOYY0IJu+UBZXBw==" length="6175519"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
