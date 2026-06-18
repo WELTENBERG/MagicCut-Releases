@@ -1291,5 +1291,21 @@ Neu in 2.4.36:
                 sparkle:edSignature="+eHeGvKDd3qOHLFhc94xfncwwjZbdDI71ONfibgHCEszAvOG+SmCzv5kI0fZHBHmXi0LDG+h+zFhqUnMa+hNBQ==" length="5993306"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.37</title>
+            <pubDate>Thu, 18 Jun 2026 18:16:49 +0000</pubDate>
+            <sparkle:version>202606182015</sparkle:version>
+            <sparkle:shortVersionString>2.4.37</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Neu in 2.4.37:
+• Sprecher-Erkennung jetzt auch bei großen Audiodateien zuverlässig
+• Schnellerer Upload bei der Verarbeitung
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.37/Magic-Cut-2.4.37.dmg"
+                sparkle:edSignature="Tq7R+y3XY9J22pKKzNddiXLU3EHEe6lC+n6YrG08vqMEt0vjsJuCwdM0ZV/8pfYye0yOCxV63gw8Hf/SRGCHDQ==" length="5995308"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
