@@ -1324,5 +1324,22 @@ Neu in 2.4.38:
                 sparkle:edSignature="oLyBeNfzfReUhFgSA7izRPFJBEYa7MRoHs6QNmqVrg4f57lbLc2uYbbpS2eg6XXsmnQLqyiQfHz+8F3UnoVbBQ==" length="5973749"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.40</title>
+            <pubDate>Thu, 18 Jun 2026 20:24:25 +0000</pubDate>
+            <sparkle:version>202606182223</sparkle:version>
+            <sparkle:shortVersionString>2.4.40</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Neu in 2.4.40:
+• Chat jetzt direkt im großen Editor — Claude ergänzt deinen Schnitt, während du bearbeitest
+• Neue Vorschläge fließen automatisch ein, ohne deine Reihenfolge/Bearbeitung zu überschreiben
+• Claude respektiert, was du ausgeblendet oder gelöscht hast — es kommt nicht zurück
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.40/Magic-Cut-2.4.40.dmg"
+                sparkle:edSignature="nBdy5eIh8GQklk0IuF5xZ8n4MC1zUuS6f48+PjYISqD6vAB9ceRhURVqaJpJZKyey3WtRKWL8VODBfDLK63WCA==" length="6124132"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
