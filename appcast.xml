@@ -1274,5 +1274,22 @@ Neu in 2.4.35:
                 sparkle:edSignature="Kt8gbFZGYJt3a3f+w1jxyiqWvhbGLZ6B2CYqPTVx0GWm/k7CCB4ZshicdaHeZFdRw0k+n2hdH9/lg0fHbvveCg==" length="5991417"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.36</title>
+            <pubDate>Thu, 18 Jun 2026 17:45:47 +0000</pubDate>
+            <sparkle:version>202606181944</sparkle:version>
+            <sparkle:shortVersionString>2.4.36</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Neu in 2.4.36:
+• Mitteilungen nur noch bei fertigen Aufgaben (kein stehender Zähler mehr)
+• Aufgeräumtes Menü
+• Verbesserte Stabilität und Geschwindigkeit im Hintergrund
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.36/Magic-Cut-2.4.36.dmg"
+                sparkle:edSignature="+eHeGvKDd3qOHLFhc94xfncwwjZbdDI71ONfibgHCEszAvOG+SmCzv5kI0fZHBHmXi0LDG+h+zFhqUnMa+hNBQ==" length="5993306"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
