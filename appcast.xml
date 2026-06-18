@@ -1307,5 +1307,22 @@ Neu in 2.4.37:
                 sparkle:edSignature="Tq7R+y3XY9J22pKKzNddiXLU3EHEe6lC+n6YrG08vqMEt0vjsJuCwdM0ZV/8pfYye0yOCxV63gw8Hf/SRGCHDQ==" length="5995308"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.38</title>
+            <pubDate>Thu, 18 Jun 2026 19:41:38 +0000</pubDate>
+            <sparkle:version>202606182140</sparkle:version>
+            <sparkle:shortVersionString>2.4.38</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Neu in 2.4.38:
+• Schnitt-Vorschau jetzt direkt in der Cut-Liste — mit einem Klick abspielen
+• Umschalter Übersicht / Volltext; Klick auf ein Segment springt dorthin
+• Schlankere Bedienung: kein extra Vorschau-Fenster mehr
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.38/Magic-Cut-2.4.38.dmg"
+                sparkle:edSignature="oLyBeNfzfReUhFgSA7izRPFJBEYa7MRoHs6QNmqVrg4f57lbLc2uYbbpS2eg6XXsmnQLqyiQfHz+8F3UnoVbBQ==" length="5973749"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
