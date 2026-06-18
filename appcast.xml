@@ -1257,5 +1257,22 @@ Schnitt-Export repariert für Quellen mit Compound-Clips (z.B. vertikaler Refram
                 sparkle:edSignature="Ew3fD2pPkxgOmSXsChUE9Lj+b4aCehx78aohy3PM5+tS1KJXBNbfzSKwMBEP1U2Y6l2oIIml/1AkBB45VTovAg==" length="5929294"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.35</title>
+            <pubDate>Thu, 18 Jun 2026 16:39:01 +0000</pubDate>
+            <sparkle:version>202606181837</sparkle:version>
+            <sparkle:shortVersionString>2.4.35</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Neu in 2.4.35:
+• An- und Abmeldung direkt in der App
+• Verbesserte Stabilität und Geschwindigkeit
+• Kleinere Fehlerbehebungen
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.35/Magic-Cut-2.4.35.dmg"
+                sparkle:edSignature="Kt8gbFZGYJt3a3f+w1jxyiqWvhbGLZ6B2CYqPTVx0GWm/k7CCB4ZshicdaHeZFdRw0k+n2hdH9/lg0fHbvveCg==" length="5991417"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
