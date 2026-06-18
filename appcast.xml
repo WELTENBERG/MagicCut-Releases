@@ -1341,5 +1341,21 @@ Neu in 2.4.40:
                 sparkle:edSignature="nBdy5eIh8GQklk0IuF5xZ8n4MC1zUuS6f48+PjYISqD6vAB9ceRhURVqaJpJZKyey3WtRKWL8VODBfDLK63WCA==" length="6124132"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.41</title>
+            <pubDate>Thu, 18 Jun 2026 20:56:42 +0000</pubDate>
+            <sparkle:version>202606182255</sparkle:version>
+            <sparkle:shortVersionString>2.4.41</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Neu in 2.4.41:
+• Alles im Projekt: dein Editor-Arbeitsstand wandert jetzt vollständig in die Mediathek (.magiccut)
+• Flüssigere Wiedergabe im Editor und in der Cut-Liste — kein Ruckeln mehr während des Abspielens
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.41/Magic-Cut-2.4.41.dmg"
+                sparkle:edSignature="zczWBmmMO7yq7SRwiTvvIxxrb3oJBaefhft00REQgmMhSINcMZiinUyPjAhQwgYKBzB66hXgdbX1XNHhjcwjAA==" length="6095201"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
