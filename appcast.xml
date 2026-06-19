@@ -1623,5 +1623,19 @@ Glas-Feinschliff: Transkript, Chat und Cut-Liste sind jetzt schwebende Glas-Kart
                 sparkle:edSignature="MIRCyr4+rJ8gj/nqQ2wtc7Od6uNS4nBqtBRiW+oz4iPYWXKPrOsSqs52HG7hbn7wfOqyW/KXtrf4M4WAR4xMAw==" length="6257328"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.61</title>
+            <pubDate>Fri, 19 Jun 2026 22:16:30 +0000</pubDate>
+            <sparkle:version>202606200015</sparkle:version>
+            <sparkle:shortVersionString>2.4.61</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Sprecher werden bei aus der Cloud geladenen Projekten wieder zuverlaessig angezeigt (aus den Projektdaten rekonstruiert, falls die Sprecher-Datei fehlt).
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.61/Magic-Cut-2.4.61.dmg"
+                sparkle:edSignature="pUspWA1wCxRZ58onqNqHNzePqNGqPao9yvCv1ZUOrQaU5EF5D3VSlqBh3vtDOQTEbhkUqEjv3HnYt0/PElMTDA==" length="6257338"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
