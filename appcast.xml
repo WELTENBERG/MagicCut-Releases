@@ -1707,5 +1707,19 @@ Zwei Fixes am neuen Cut-Panel: (1) Umsortieren per Drag&Drop funktioniert jetzt.
                 sparkle:edSignature="wJZyYhZe1UO7BTQb31Y+Tgpkkb8vOQPBU5TSFsiP/eKq4Jlse+Z+unjgtwgA96luH1fcq3l8KAHN5rSuD717Cw==" length="6154109"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.67</title>
+            <pubDate>Fri, 19 Jun 2026 23:56:50 +0000</pubDate>
+            <sparkle:version>202606200155</sparkle:version>
+            <sparkle:shortVersionString>2.4.67</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Fix: Wenn du Claude im Chat bittest, etwas hinzuzufuegen, erscheint es jetzt wirklich in der Cut-Liste rechts - auch an einer Stelle, an der du vorher mal etwas geloescht hattest.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.67/Magic-Cut-2.4.67.dmg"
+                sparkle:edSignature="rofhEqEu/gSuEYDQvEGdthwCVuPwgKNtMa31TgC5dHwLhMTjdDtSwXksca6LzMccEvzG9HweVI8u0uusVK+8BQ==" length="6154175"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
