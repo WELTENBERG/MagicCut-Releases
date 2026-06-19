@@ -1665,5 +1665,19 @@ Wichtiges Update: (1) Diarisierung grosser Videodateien repariert — Magic Cut 
                 sparkle:edSignature="ZuxH+6hbuA07JCma4PRBkSa8C0gFgUop9TxQcjrYhBLLPMdhvKoD7lOwQbaHccP3zCIUst7bmP6kOgMtmwSaDw==" length="6261870"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.64</title>
+            <pubDate>Fri, 19 Jun 2026 22:51:54 +0000</pubDate>
+            <sparkle:version>202606200050</sparkle:version>
+            <sparkle:shortVersionString>2.4.64</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Aufgeraeumt: Die zwei unteren Buttons (Ergebnisse oeffnen / Fertige entfernen) sind weg — im Cloud-Modell ergaben sie keinen Sinn. Projekte verwaltest du pro Zeile (oeffnen, X = loeschen, Nur online).
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.64/Magic-Cut-2.4.64.dmg"
+                sparkle:edSignature="sKijFnlfuz+/+7nguPA13IU4NZCRTmLgtjh10LIphGomP6TBeteygEJnv1ORQf6jrTvkBVH5KTu3rEx9XT/QAw==" length="6257319"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
