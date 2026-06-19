@@ -1483,5 +1483,19 @@ Web-Versionen werden jetzt zu echten Mac-Versionen: Legst du im Web eine neue Ve
                 sparkle:edSignature="45ctF4Bz2b8gpIzaoOg1XoZ2pCqxJ+JIUPBD1iWgRcYzUvMGQHZa/HCE87iasfUJFY3p6U2F3I/IEViDHaHcDg==" length="6215499"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.51</title>
+            <pubDate>Fri, 19 Jun 2026 18:44:38 +0000</pubDate>
+            <sparkle:version>202606192043</sparkle:version>
+            <sparkle:shortVersionString>2.4.51</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Alles automatisch in die Cloud: Ab jetzt landet jedes fertige Projekt von selbst in der Cloud und bleibt durchgehend synchron — ohne manuelles Im-Web-teilen. Beim Start werden bestehende Projekte nach und nach hochgeladen. In den Einstellungen abschaltbar. Deine lokalen Mediatheken bleiben als Sicherung erhalten.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.51/Magic-Cut-2.4.51.dmg"
+                sparkle:edSignature="Sh8iABuIvAJQAYs1uYMnxe30udgj9xcS5MjZjlONWaB9iG3HcjIcaWeUNijvnU+06IOkK9RJLZy0sMsv8y4cAg==" length="6218786"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
