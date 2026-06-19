@@ -1609,5 +1609,19 @@ Die Mac-App bekommt den Glas-Look des Web-Editors: violetter Akzent und durchsch
                 sparkle:edSignature="6s+Jha1acKPH/8v5qGMT+jOBjjqvC7BGuwJ+uVA7p9djYlBV4GBSxRr/8lRFZ7O8Xn3EGlTx7uca+bO/X0PvCQ==" length="6249900"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.60</title>
+            <pubDate>Fri, 19 Jun 2026 21:50:19 +0000</pubDate>
+            <sparkle:version>202606192349</sparkle:version>
+            <sparkle:shortVersionString>2.4.60</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Glas-Feinschliff: Transkript, Chat und Cut-Liste sind jetzt schwebende Glas-Karten mit runden Ecken und feinem Rand — naeher am Web-Editor. (Im Web zeigt der Chat Claudes Antworten ausserdem jetzt schoen formatiert mit Sprecher-Zitat-Karten.)
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.60/Magic-Cut-2.4.60.dmg"
+                sparkle:edSignature="MIRCyr4+rJ8gj/nqQ2wtc7Od6uNS4nBqtBRiW+oz4iPYWXKPrOsSqs52HG7hbn7wfOqyW/KXtrf4M4WAR4xMAw==" length="6257328"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
