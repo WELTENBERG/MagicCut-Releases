@@ -1637,5 +1637,19 @@ Sprecher werden bei aus der Cloud geladenen Projekten wieder zuverlaessig angeze
                 sparkle:edSignature="pUspWA1wCxRZ58onqNqHNzePqNGqPao9yvCv1ZUOrQaU5EF5D3VSlqBh3vtDOQTEbhkUqEjv3HnYt0/PElMTDA==" length="6257338"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.62</title>
+            <pubDate>Fri, 19 Jun 2026 22:31:18 +0000</pubDate>
+            <sparkle:version>202606200030</sparkle:version>
+            <sparkle:shortVersionString>2.4.62</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Diarisierung grosser Video-Dateien repariert: Magic Cut nutzt jetzt das schon dekodierte Audio fuer die Sprecher-Erkennung, statt es nochmal aus dem (oft sehr grossen) Original-Video zu ziehen. Das verhindert das minutenlange Haengen bei Phase 5 und den riesigen Upload.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.62/Magic-Cut-2.4.62.dmg"
+                sparkle:edSignature="Ou4QwMOsnhbF8xl9D9JkMpgGBmcZHC6+hTs/8+Z+9c/Nn6vqLLOtNqBbvfkOyb2ks3rQjs7FMXWJ5kdJO0XDBA==" length="6257372"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
