@@ -1539,5 +1539,19 @@ X und Nur online sind jetzt klar getrennt: Das X loescht ein Projekt WIRKLICH (a
                 sparkle:edSignature="YdCZNArG2J65a1XmC9knP1rX3RXskB0lbFA8F4MZryAleWrapyj/Is50sdNYmbjo5WYX1pbJuXbkHh2l0g4UDw==" length="6281867"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.55</title>
+            <pubDate>Fri, 19 Jun 2026 19:59:32 +0000</pubDate>
+            <sparkle:version>202606192158</sparkle:version>
+            <sparkle:shortVersionString>2.4.55</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Behebt: Cloud-Projekte fragten beim Oeffnen unnoetig nach einer Final-Cut-XML, obwohl sie laengst hochgeladen war. Die XML wird jetzt beim Laden aus der Cloud sofort erkannt — keine Nachfrage mehr.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.55/Magic-Cut-2.4.55.dmg"
+                sparkle:edSignature="j0nSU5EPPf7O3OElNy1zqAm5AkfNRgSk8qRb1I4ZJuRBMqImdH5i0QVOGdtFS9Nc6YWu9zeuDnjTpel01xzSCQ==" length="6282857"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
