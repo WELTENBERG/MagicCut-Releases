@@ -1651,5 +1651,19 @@ Diarisierung grosser Video-Dateien repariert: Magic Cut nutzt jetzt das schon de
                 sparkle:edSignature="Ou4QwMOsnhbF8xl9D9JkMpgGBmcZHC6+hTs/8+Z+9c/Nn6vqLLOtNqBbvfkOyb2ks3rQjs7FMXWJ5kdJO0XDBA==" length="6257372"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.63</title>
+            <pubDate>Fri, 19 Jun 2026 22:35:01 +0000</pubDate>
+            <sparkle:version>202606200033</sparkle:version>
+            <sparkle:shortVersionString>2.4.63</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Wichtiges Update: (1) Diarisierung grosser Videodateien repariert — Magic Cut nutzt das schon dekodierte Audio fuer die Sprecher-Erkennung statt es nochmal aus dem Riesen-Video zu ziehen (kein Haengen bei Phase 5, kein Riesen-Upload). (2) Sprecher werden bei aus der Cloud geladenen Projekten zuverlaessig angezeigt. Hinweis: 2.4.61/2.4.62 enthielten diese Fixes versehentlich noch nicht — bitte auf 2.4.63 aktualisieren.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.63/Magic-Cut-2.4.63.dmg"
+                sparkle:edSignature="ZuxH+6hbuA07JCma4PRBkSa8C0gFgUop9TxQcjrYhBLLPMdhvKoD7lOwQbaHccP3zCIUst7bmP6kOgMtmwSaDw==" length="6261870"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
