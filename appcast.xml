@@ -1525,5 +1525,19 @@ Cloud-Projekte sind jetzt aufgeraeumt: Bei Projekten, die in der Cloud liegen, s
                 sparkle:edSignature="iom/7YaxMEYk2FEFQA55wt6XEJ9tAaRNzSBpZ/woLqHvb+wMJhm3RcOo1dPIUK8Bj8+lMjZk3i5oGZ0Mn7cLCw==" length="6260506"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.54</title>
+            <pubDate>Fri, 19 Jun 2026 19:55:00 +0000</pubDate>
+            <sparkle:version>202606192153</sparkle:version>
+            <sparkle:shortVersionString>2.4.54</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+X und Nur online sind jetzt klar getrennt: Das X loescht ein Projekt WIRKLICH (aus der Cloud und vom Mac, mit Rueckfrage, nur als Eigentuemer). Nur online entfernt dagegen nur die lokale Kopie — das Projekt bleibt in der Cloud und wird beim Oeffnen wieder geladen.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.54/Magic-Cut-2.4.54.dmg"
+                sparkle:edSignature="YdCZNArG2J65a1XmC9knP1rX3RXskB0lbFA8F4MZryAleWrapyj/Is50sdNYmbjo5WYX1pbJuXbkHh2l0g4UDw==" length="6281867"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
