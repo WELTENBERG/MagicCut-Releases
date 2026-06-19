@@ -1567,5 +1567,19 @@ Randfall geschlossen: Ziehst du bei einem bereits hochgeladenen Projekt eine neu
                 sparkle:edSignature="vVouSpOCyBX77IWiZSBYQKnPFocq06lwkGRYO92hciVbGu6VgXEM57B+A5jP4E6SlY6r5eF0kU18A08c3ybrAA==" length="6284851"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.57</title>
+            <pubDate>Fri, 19 Jun 2026 20:52:46 +0000</pubDate>
+            <sparkle:version>202606192251</sparkle:version>
+            <sparkle:shortVersionString>2.4.57</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Konsequent Cloud-only: Der Knopf Im Web teilen ist weg — jedes Projekt ist automatisch und immer in der Cloud. Der Nur-Cloud-Schalter samt seiner Nur-Cloud-nicht-moeglich-Blockade ist entfernt. Cloud-Sync laeuft jetzt fest und ist nicht mehr abschaltbar. Die lokale Kopie entfernst du weiterhin pro Projekt ueber Nur online.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.57/Magic-Cut-2.4.57.dmg"
+                sparkle:edSignature="5TqS47laJ3VInrYAUYmcA82McgyPKsiOvaX9Gr30NAz7/t3+EJHC3TIqO08ONRhID+0To38cBQqXFFtaiOzkDg==" length="6260477"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
