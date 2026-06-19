@@ -1455,5 +1455,19 @@ Zwei-Wege-Sync wird vollstaendig: Aenderungen aus dem Web (Cuts UND Chat) ersche
                 sparkle:edSignature="JBsx3FUZmZAQRHu/rLmp3CB76lRxoYG2w4VEa6QV45CU0B0ko78I0ucvQNDvk4VpAbk5Y3WzIkczH4Gqg5QqCQ==" length="6190023"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.49</title>
+            <pubDate>Fri, 19 Jun 2026 17:56:39 +0000</pubDate>
+            <sparkle:version>202606191955</sparkle:version>
+            <sparkle:shortVersionString>2.4.49</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Neu: Pro Projekt laesst sich die lokale Mediathek-Spiegelung abschalten ("Nur Cloud") — fuer Projekte, die sicher in der Cloud liegen. Standardmaessig AUS; Einschalten nur nach Sicherheits-Pruefung (Multitrack-/FCPXML-Projekte ohne lokale Vollkopie werden geschuetzt), jederzeit wieder einschaltbar. Plus die Web-Politur (wort-genaues Highlight, Sprecher-Farben, FCPXML pro Version, Drag und Drop) ist im Browser live.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.49/Magic-Cut-2.4.49.dmg"
+                sparkle:edSignature="zlcXsARbTEQSd5p7aaXOILLNdjH/T4dZORbVsHAkfzFZ9uupUyGdFzYTyRnqxi6W1ZZSORNHBwmBNO6ZukFoAA==" length="6194223"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
