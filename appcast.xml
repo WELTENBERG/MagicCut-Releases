@@ -1413,5 +1413,19 @@ Cloud-Sync: Projekte, die du "Im Web teilen" hast, halten sich ab jetzt automati
                 sparkle:edSignature="1Hq+j6uB95yBlrIaf2kIKgUT/ET8J5WbL4F1HGL5QSn8ZhJlSW6U3vSYlSRm7V0x7MpkJ2nmbiq/hAbx17XRAw==" length="6186194"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.46</title>
+            <pubDate>Fri, 19 Jun 2026 15:51:51 +0000</pubDate>
+            <sparkle:version>202606191750</sparkle:version>
+            <sparkle:shortVersionString>2.4.46</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Cloud-Sync schneller: Aenderungen am Mac erscheinen jetzt fast sofort im Web (statt nach einigen Sekunden) — und umgekehrt sieht der Web-Editor Aenderungen live. Cut-Liste aufgeraeumt: immer gesprochener Volltext, kein Uebersicht/Volltext-Umschalter mehr. Ausserdem im Web: der Abspiel-Knopf wird beim Abspielen animiert zum Pause-Knopf, und der Cut-Player spielt Thema fuer Thema (springt sauber von Schnitt zu Schnitt).
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.46/Magic-Cut-2.4.46.dmg"
+                sparkle:edSignature="ZaUi9oPnbAgN2yEwXH0e97sqSu45EFm5LXieedQ4IzzCNvS5VH+JSsDIx8GvB5JLIzrZY/KAZqmgDBpjHAWcDQ==" length="6155110"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
