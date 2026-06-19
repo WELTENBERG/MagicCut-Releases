@@ -1469,5 +1469,19 @@ Neu: Pro Projekt laesst sich die lokale Mediathek-Spiegelung abschalten ("Nur Cl
                 sparkle:edSignature="zlcXsARbTEQSd5p7aaXOILLNdjH/T4dZORbVsHAkfzFZ9uupUyGdFzYTyRnqxi6W1ZZSORNHBwmBNO6ZukFoAA==" length="6194223"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.50</title>
+            <pubDate>Fri, 19 Jun 2026 18:16:59 +0000</pubDate>
+            <sparkle:version>202606192015</sparkle:version>
+            <sparkle:shortVersionString>2.4.50</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Web-Versionen werden jetzt zu echten Mac-Versionen: Legst du im Web eine neue Version an, erscheint sie auf dem Mac im Versions-Archiv MIT fertiger Final-Cut-Datei (solange das Projekt offen ist). Plus optional: neue Projekte koennen ohne Speicherort-Dialog automatisch in einer Mediathek angelegt werden (Einstellungen, standardmaessig aus).
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.50/Magic-Cut-2.4.50.dmg"
+                sparkle:edSignature="45ctF4Bz2b8gpIzaoOg1XoZ2pCqxJ+JIUPBD1iWgRcYzUvMGQHZa/HCE87iasfUJFY3p6U2F3I/IEViDHaHcDg==" length="6215499"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
