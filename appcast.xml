@@ -1497,5 +1497,19 @@ Alles automatisch in die Cloud: Ab jetzt landet jedes fertige Projekt von selbst
                 sparkle:edSignature="Sh8iABuIvAJQAYs1uYMnxe30udgj9xcS5MjZjlONWaB9iG3HcjIcaWeUNijvnU+06IOkK9RJLZy0sMsv8y4cAg==" length="6218786"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.52</title>
+            <pubDate>Fri, 19 Jun 2026 19:15:15 +0000</pubDate>
+            <sparkle:version>202606192113</sparkle:version>
+            <sparkle:shortVersionString>2.4.52</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Die Uebersicht zeigt jetzt deine ONLINE-Projekte: nach dem Login siehst du genau deine eigenen und die mit dir geteilten Projekte aus der Cloud — keine getrennte lokale Liste mehr. Ein Projekt, das nur in der Cloud liegt (z. B. von einer geteilten Person), wird beim Oeffnen heruntergeladen. Lokal analysieren + automatisch hochladen bleibt wie gehabt.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.52/Magic-Cut-2.4.52.dmg"
+                sparkle:edSignature="b03XQ6lNIRqu17AG4gHtTeL7mUEyG6e40KLxGtJpY3Doy51Ls2TChw4xvT+l9mkQfW/t9W6z58cnP5jvZEgWBw==" length="6252953"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
