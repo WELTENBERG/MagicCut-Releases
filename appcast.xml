@@ -1679,5 +1679,19 @@ Aufgeraeumt: Die zwei unteren Buttons (Ergebnisse oeffnen / Fertige entfernen) s
                 sparkle:edSignature="sKijFnlfuz+/+7nguPA13IU4NZCRTmLgtjh10LIphGomP6TBeteygEJnv1ORQf6jrTvkBVH5KTu3rEx9XT/QAw==" length="6257319"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.65</title>
+            <pubDate>Fri, 19 Jun 2026 23:27:20 +0000</pubDate>
+            <sparkle:version>202606200126</sparkle:version>
+            <sparkle:shortVersionString>2.4.65</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Grosser Editor-Umbau wie im Web: Die Cut-Liste rechts ist jetzt DIREKT editierbar - Zeilen ausblenden, loeschen, per Drag&Drop umsortieren. Neuer Knopf Version sichern friert den aktuellen Stand als neue Version ein. Eine Version anklicken laedt sie zum Weiterbearbeiten. Der separate Editor-Tab entfaellt - du arbeitest immer an der aktuellen Version, der Chat aendert sie direkt.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.65/Magic-Cut-2.4.65.dmg"
+                sparkle:edSignature="fzPEnywx8W6lMm/C1TR4887QhX6i0I/0fLFzPqXecvcQ2V6nXN1xjWxlAS5XqwshHmVgc70jVTlRFjVOFxkOAQ==" length="6155876"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
