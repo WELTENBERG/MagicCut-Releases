@@ -1595,5 +1595,19 @@ Aufgeraeumt: Die lokale Mediathek ist verschwunden — alles liegt in der Cloud.
                 sparkle:edSignature="zUOI9l9mJlOTrzSzGaH9OCvYd5hNMLiUuu18bkF2NnTkb0Gd+fXXjPJuyCiXcvjT7uL6tV1TrSU8RVQzcco8Cw==" length="6240722"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.59</title>
+            <pubDate>Fri, 19 Jun 2026 21:34:58 +0000</pubDate>
+            <sparkle:version>202606192333</sparkle:version>
+            <sparkle:shortVersionString>2.4.59</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Die Mac-App bekommt den Glas-Look des Web-Editors: violetter Akzent und durchscheinende Glas-Panels fuer Transkript, Chat und Cut-Liste. Erster Pass — sag mir, was du am Look noch verfeinert haben willst.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.59/Magic-Cut-2.4.59.dmg"
+                sparkle:edSignature="6s+Jha1acKPH/8v5qGMT+jOBjjqvC7BGuwJ+uVA7p9djYlBV4GBSxRr/8lRFZ7O8Xn3EGlTx7uca+bO/X0PvCQ==" length="6249900"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
