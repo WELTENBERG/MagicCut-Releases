@@ -1581,5 +1581,19 @@ Konsequent Cloud-only: Der Knopf Im Web teilen ist weg — jedes Projekt ist aut
                 sparkle:edSignature="5TqS47laJ3VInrYAUYmcA82McgyPKsiOvaX9Gr30NAz7/t3+EJHC3TIqO08ONRhID+0To38cBQqXFFtaiOzkDg==" length="6260477"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.58</title>
+            <pubDate>Fri, 19 Jun 2026 21:05:14 +0000</pubDate>
+            <sparkle:version>202606192303</sparkle:version>
+            <sparkle:shortVersionString>2.4.58</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Aufgeraeumt: Die lokale Mediathek ist verschwunden — alles liegt in der Cloud. Beim Anlegen neuer Projekte kommt kein Speicherort-Dialog mehr, und die Mediathek-Hinweise im Projektkopf sowie der Mediathek-Schalter in den Einstellungen sind weg. Projekte werden weiterhin automatisch lokal zwischengespeichert und in die Cloud geladen.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.58/Magic-Cut-2.4.58.dmg"
+                sparkle:edSignature="zUOI9l9mJlOTrzSzGaH9OCvYd5hNMLiUuu18bkF2NnTkb0Gd+fXXjPJuyCiXcvjT7uL6tV1TrSU8RVQzcco8Cw==" length="6240722"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
