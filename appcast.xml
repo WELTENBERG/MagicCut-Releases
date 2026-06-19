@@ -1385,5 +1385,19 @@ Neu: "Im Web teilen" — laedt dein analysiertes Projekt in die Cloud. Im Browse
                 sparkle:edSignature="0M/H6VJJfvasW0Ijh4W9nDduOuepHs1e3fcZZOt1or8byifBJrRQyMSicF5ob4HV2wNG3qnVOYY0IJu+UBZXBw==" length="6175519"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.44</title>
+            <pubDate>Fri, 19 Jun 2026 10:17:38 +0000</pubDate>
+            <sparkle:version>202606191216</sparkle:version>
+            <sparkle:shortVersionString>2.4.44</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Cloud: "Im Web teilen" laedt jetzt das GANZE Projekt mit allen Versionen hoch (nicht nur die aktuelle). Im Web erscheinen unter der Cut-Liste alle Versionen — anklicken laedt sie. Ausserdem: Editor-Optik im Web an die Mac-App angeglichen, eigener Player, sauberere Projektliste.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.44/Magic-Cut-2.4.44.dmg"
+                sparkle:edSignature="CfK8uMCDeo/tumFu6Ii6IpJESSNiDrBHRYBLvXJFlWxe7pwNApuS9pbpBLef1My4kc/sxx96Ydn4lUuGGHQzAw==" length="6174435"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
