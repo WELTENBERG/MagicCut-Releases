@@ -1693,5 +1693,19 @@ Grosser Editor-Umbau wie im Web: Die Cut-Liste rechts ist jetzt DIREKT editierba
                 sparkle:edSignature="fzPEnywx8W6lMm/C1TR4887QhX6i0I/0fLFzPqXecvcQ2V6nXN1xjWxlAS5XqwshHmVgc70jVTlRFjVOFxkOAQ==" length="6155876"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.66</title>
+            <pubDate>Fri, 19 Jun 2026 23:43:11 +0000</pubDate>
+            <sparkle:version>202606200142</sparkle:version>
+            <sparkle:shortVersionString>2.4.66</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Zwei Fixes am neuen Cut-Panel: (1) Umsortieren per Drag&Drop funktioniert jetzt. (2) Claudes Chat-Aenderungen (z.B. eine Aussage hinzufuegen) erscheinen jetzt sofort in der Cut-Liste rechts.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.66/Magic-Cut-2.4.66.dmg"
+                sparkle:edSignature="wJZyYhZe1UO7BTQb31Y+Tgpkkb8vOQPBU5TSFsiP/eKq4Jlse+Z+unjgtwgA96luH1fcq3l8KAHN5rSuD717Cw==" length="6154109"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
