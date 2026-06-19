@@ -1399,5 +1399,19 @@ Cloud: "Im Web teilen" laedt jetzt das GANZE Projekt mit allen Versionen hoch (n
                 sparkle:edSignature="CfK8uMCDeo/tumFu6Ii6IpJESSNiDrBHRYBLvXJFlWxe7pwNApuS9pbpBLef1My4kc/sxx96Ydn4lUuGGHQzAw==" length="6174435"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.45</title>
+            <pubDate>Fri, 19 Jun 2026 11:06:01 +0000</pubDate>
+            <sparkle:version>202606191304</sparkle:version>
+            <sparkle:shortVersionString>2.4.45</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Cloud-Sync: Projekte, die du "Im Web teilen" hast, halten sich ab jetzt automatisch aktuell — jede Aenderung (neue Version, Cut bearbeitet) erscheint von selbst im Web, ohne erneutes Teilen. Ausserdem: im Web kannst du jetzt selbst Versionen anlegen (Knopf "+ Version"), und alle Versionen sind im Web-Editor sichtbar.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.45/Magic-Cut-2.4.45.dmg"
+                sparkle:edSignature="1Hq+j6uB95yBlrIaf2kIKgUT/ET8J5WbL4F1HGL5QSn8ZhJlSW6U3vSYlSRm7V0x7MpkJ2nmbiq/hAbx17XRAw==" length="6186194"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
