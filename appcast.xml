@@ -1553,5 +1553,19 @@ Behebt: Cloud-Projekte fragten beim Oeffnen unnoetig nach einer Final-Cut-XML, o
                 sparkle:edSignature="j0nSU5EPPf7O3OElNy1zqAm5AkfNRgSk8qRb1I4ZJuRBMqImdH5i0QVOGdtFS9Nc6YWu9zeuDnjTpel01xzSCQ==" length="6282857"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.56</title>
+            <pubDate>Fri, 19 Jun 2026 20:35:44 +0000</pubDate>
+            <sparkle:version>202606192234</sparkle:version>
+            <sparkle:shortVersionString>2.4.56</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Randfall geschlossen: Ziehst du bei einem bereits hochgeladenen Projekt eine neue Final-Cut-XML rein (oder aenderst Sprecher-Namen/Farben), wird das jetzt vollstaendig in der Cloud ersetzt — nicht nur die Schnitt-Liste. Das unveraenderte Audio wird dabei nicht neu hochgeladen (sparsam).
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.56/Magic-Cut-2.4.56.dmg"
+                sparkle:edSignature="vVouSpOCyBX77IWiZSBYQKnPFocq06lwkGRYO92hciVbGu6VgXEM57B+A5jP4E6SlY6r5eF0kU18A08c3ybrAA==" length="6284851"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
