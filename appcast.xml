@@ -1819,5 +1819,19 @@ Fix: Claudes vorgeschlagene Cuts erscheinen jetzt zuverlaessig in der Cut-Liste,
                 sparkle:edSignature="2d5+JgP8RwYWrXnKAbxhh9DfX5o5VWE9ArQZF1x88S8eRbFGLqGNs9OCAdwtIZ91Z9+QFDDJqRgk7AydM1RMCw==" length="6186614"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.75</title>
+            <pubDate>Sat, 20 Jun 2026 21:08:41 +0000</pubDate>
+            <sparkle:version>202606202307</sparkle:version>
+            <sparkle:shortVersionString>2.4.75</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Klick auf einen Cut spielt jetzt genau diesen Cut (nicht mehr ab Cut 1). Der Chat-Verlauf bleibt sichtbar (kein leerer Chat mehr bei aktiver Version). Web-Wiedergabe: kein Bleed mehr am Cut-Ende.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.75/Magic-Cut-2.4.75.dmg"
+                sparkle:edSignature="PPoNu8Pfl+txU7D9YuABpoC0/yCh8Kucf45yKJvuU/a0l79RDa3wyUEGiTotzxIFkrvtxmIo/bm8vqIqxNYyBw==" length="6185024"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
