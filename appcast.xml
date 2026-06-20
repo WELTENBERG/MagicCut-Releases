@@ -1777,5 +1777,19 @@ Fix: Beim Wechsel auf eine andere Version bleiben jetzt deine Chat-Eingabe, die 
                 sparkle:edSignature="f0gKJcmceqbjjvJfL+Yq40e+oYc+JC3OMkti2yOivJqpofHGPfgpOzYdHUPwpoRkMPonvGn6fOZa4MYqQF71Dg==" length="6161523"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.72</title>
+            <pubDate>Sat, 20 Jun 2026 01:04:20 +0000</pubDate>
+            <sparkle:version>202606200303</sparkle:version>
+            <sparkle:shortVersionString>2.4.72</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Fix: Der minimale Bleed am Cut-Ende (ein Hauch vom naechsten Satz) ist weg. Bei Projekten, deren Wort-Timing fehlt, klemmt der Schnitt jetzt sauber an der Satzgrenze statt am groeberen Audio-Ende. Deine Versionen bleiben alle erhalten - kein Neu-Transkribieren noetig.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.72/Magic-Cut-2.4.72.dmg"
+                sparkle:edSignature="KnywvySE72iykIfE6L8ZRuepeYy3m8hlE5+UuCdGk7M1gFfOIKGtRkvN+ccLGbuAELhlsGWFAZdyR9SLIHnOAA==" length="6161946"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
