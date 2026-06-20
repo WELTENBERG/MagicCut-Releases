@@ -1735,5 +1735,19 @@ Chat steuert jetzt ALLES wie die direkte Bearbeitung: Bitte Claude im Chat, Cuts
                 sparkle:edSignature="0Wo0YAPr49SstDLSwRHjLMw0ynYC25WXBv5QsQCiXm7r9CH/v3xfGzwSWZQFik2su7f976lIDqxDxKL1K1W5Bg==" length="6154194"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.69</title>
+            <pubDate>Sat, 20 Jun 2026 00:31:42 +0000</pubDate>
+            <sparkle:version>202606200230</sparkle:version>
+            <sparkle:shortVersionString>2.4.69</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Grosser Umbau: Jede Version ist jetzt ein eigener Take mit EIGENEM Chat-Verlauf. Version wechseln -> Chat UND Cut-Liste wechseln mit. Der Knopf Neue Version startet leer mit frischem Chat, den du Schritt fuer Schritt aufbaust. Chat und direkte Bearbeitung optimieren die aktuelle Version - es entsteht nicht mehr bei jeder Claude-Antwort automatisch eine neue Version.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.69/Magic-Cut-2.4.69.dmg"
+                sparkle:edSignature="dyLtM2I1LV016mQp/mOdsm3+ZRFHJjUNxO8iZD9/kXasaKjH4oIFigJiIBvwfRwv6UNVItbOtGxRb5zUpIFaDA==" length="6163736"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
