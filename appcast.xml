@@ -1805,5 +1805,19 @@ Cloud = exakt wie offline: Projekte verlieren beim Cloud-Durchlauf nie wieder Wo
                 sparkle:edSignature="LaKM0Ja2bUnKTpUQbMQ2cC921k/ztdHSpoGfnopDQIxxAbXy0f8Sdp0gMJnOOm8TBImTMQJ1TMQvhWl6KATMDQ==" length="6180364"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.74</title>
+            <pubDate>Sat, 20 Jun 2026 08:36:01 +0000</pubDate>
+            <sparkle:version>202606201034</sparkle:version>
+            <sparkle:shortVersionString>2.4.74</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Fix: Claudes vorgeschlagene Cuts erscheinen jetzt zuverlaessig in der Cut-Liste, und der Chat springt nicht mehr weg, wenn die erste Version entsteht. Projekte, bei denen die Liste faelschlich leer war, heilen sich beim Oeffnen automatisch.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.74/Magic-Cut-2.4.74.dmg"
+                sparkle:edSignature="2d5+JgP8RwYWrXnKAbxhh9DfX5o5VWE9ArQZF1x88S8eRbFGLqGNs9OCAdwtIZ91Z9+QFDDJqRgk7AydM1RMCw==" length="6186614"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
