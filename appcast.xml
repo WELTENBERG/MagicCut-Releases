@@ -1763,5 +1763,19 @@ Fix: Die Cuts, die Claude im Chat vorschlaegt, erscheinen jetzt wieder zuverlaes
                 sparkle:edSignature="Mm+tELIpCoaMVg0yAB+D53MIXUPxx3XbVfSQ6zKgYQXjFWhc0TIDTH9MBBBH3oojGuHKwFVcjWk71Rag75zGBQ==" length="6163857"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.71</title>
+            <pubDate>Sat, 20 Jun 2026 00:48:26 +0000</pubDate>
+            <sparkle:version>202606200247</sparkle:version>
+            <sparkle:shortVersionString>2.4.71</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Fix: Beim Wechsel auf eine andere Version bleiben jetzt deine Chat-Eingabe, die Spaltenbreite und der Scroll erhalten - es resettet sich nichts mehr. Nur Cut-Liste und Chat-Verlauf wechseln zur gewaehlten Version.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.71/Magic-Cut-2.4.71.dmg"
+                sparkle:edSignature="f0gKJcmceqbjjvJfL+Yq40e+oYc+JC3OMkti2yOivJqpofHGPfgpOzYdHUPwpoRkMPonvGn6fOZa4MYqQF71Dg==" length="6161523"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
