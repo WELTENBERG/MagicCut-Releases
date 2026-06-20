@@ -1721,5 +1721,19 @@ Fix: Wenn du Claude im Chat bittest, etwas hinzuzufuegen, erscheint es jetzt wir
                 sparkle:edSignature="rofhEqEu/gSuEYDQvEGdthwCVuPwgKNtMa31TgC5dHwLhMTjdDtSwXksca6LzMccEvzG9HweVI8u0uusVK+8BQ==" length="6154175"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.68</title>
+            <pubDate>Sat, 20 Jun 2026 00:07:10 +0000</pubDate>
+            <sparkle:version>202606200205</sparkle:version>
+            <sparkle:shortVersionString>2.4.68</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Chat steuert jetzt ALLES wie die direkte Bearbeitung: Bitte Claude im Chat, Cuts hinzuzufuegen, zu ENTFERNEN oder umzusortieren - nicht mehr nur ergaenzen. Claude kennt deine aktuelle Cut-Liste und gibt den kompletten neuen Stand zurueck. Der vorherige Stand bleibt als Version erhalten.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.68/Magic-Cut-2.4.68.dmg"
+                sparkle:edSignature="0Wo0YAPr49SstDLSwRHjLMw0ynYC25WXBv5QsQCiXm7r9CH/v3xfGzwSWZQFik2su7f976lIDqxDxKL1K1W5Bg==" length="6154194"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
