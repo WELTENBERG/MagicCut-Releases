@@ -1749,5 +1749,19 @@ Grosser Umbau: Jede Version ist jetzt ein eigener Take mit EIGENEM Chat-Verlauf.
                 sparkle:edSignature="dyLtM2I1LV016mQp/mOdsm3+ZRFHJjUNxO8iZD9/kXasaKjH4oIFigJiIBvwfRwv6UNVItbOtGxRb5zUpIFaDA==" length="6163736"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.70</title>
+            <pubDate>Sat, 20 Jun 2026 00:43:00 +0000</pubDate>
+            <sparkle:version>202606200241</sparkle:version>
+            <sparkle:shortVersionString>2.4.70</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Fix: Die Cuts, die Claude im Chat vorschlaegt, erscheinen jetzt wieder zuverlaessig in der Cut-Liste rechts (auch wenn sie schon waehrend Claudes Antwort auftauchen).
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.70/Magic-Cut-2.4.70.dmg"
+                sparkle:edSignature="Mm+tELIpCoaMVg0yAB+D53MIXUPxx3XbVfSQ6zKgYQXjFWhc0TIDTH9MBBBH3oojGuHKwFVcjWk71Rag75zGBQ==" length="6163857"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
