@@ -1791,5 +1791,19 @@ Fix: Der minimale Bleed am Cut-Ende (ein Hauch vom naechsten Satz) ist weg. Bei 
                 sparkle:edSignature="KnywvySE72iykIfE6L8ZRuepeYy3m8hlE5+UuCdGk7M1gFfOIKGtRkvN+ccLGbuAELhlsGWFAZdyR9SLIHnOAA==" length="6161946"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.73</title>
+            <pubDate>Sat, 20 Jun 2026 01:44:46 +0000</pubDate>
+            <sparkle:version>202606200343</sparkle:version>
+            <sparkle:shortVersionString>2.4.73</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Cloud = exakt wie offline: Projekte verlieren beim Cloud-Durchlauf nie wieder Wort-Timing oder Sprecher - online ist jetzt genauso wortgenau wie lokal. Versionen loeschen wirkt jetzt LIVE in beide Richtungen: loeschst du am Mac, ist es sofort im Web weg, und umgekehrt. Im Web sitzt der Play-Button jetzt unten unter den Versionen.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.73/Magic-Cut-2.4.73.dmg"
+                sparkle:edSignature="LaKM0Ja2bUnKTpUQbMQ2cC921k/ztdHSpoGfnopDQIxxAbXy0f8Sdp0gMJnOOm8TBImTMQJ1TMQvhWl6KATMDQ==" length="6180364"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
