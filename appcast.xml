@@ -1847,5 +1847,19 @@ Zuverlaessigkeit: Behebt das Haengen bei Projekten mit vielen Versionen oder lan
                 sparkle:edSignature="5MrggSDZTjPTPq8Vu5x0pPaiyjTOCtc0D9AShK3gsasCzt7oOFT8UPavzarh7RDQDtZTVJvaVFt3WSWB+zQZDA==" length="6190127"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.77</title>
+            <pubDate>Thu, 25 Jun 2026 17:21:15 +0000</pubDate>
+            <sparkle:version>202606251919</sparkle:version>
+            <sparkle:shortVersionString>2.4.77</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Stabilitaet: Behebt seltene Sync-Konflikt-Schleifen (409) durch schrittweises Zurueckziehen und verhindert, dass eine laufende Cloud-Aktualisierung eine gleichzeitige lokale Aenderung verschluckt. Im Web angelegte Versionen kommen schneller an (die Schnitt-Datei wird erst beim Oeffnen erzeugt).
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.77/Magic-Cut-2.4.77.dmg"
+                sparkle:edSignature="KpXK8SQYHxz+fCuVHYtSxB1z94kkfJfhuhJbgd+7wntCI+qYeOvVS8x/EeZ+5Tv5zcnJPFR/WviYoiZ14cMjAQ==" length="6191920"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
