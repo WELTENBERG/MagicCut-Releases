@@ -1861,5 +1861,19 @@ Stabilitaet: Behebt seltene Sync-Konflikt-Schleifen (409) durch schrittweises Zu
                 sparkle:edSignature="KpXK8SQYHxz+fCuVHYtSxB1z94kkfJfhuhJbgd+7wntCI+qYeOvVS8x/EeZ+5Tv5zcnJPFR/WviYoiZ14cMjAQ==" length="6191920"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.78</title>
+            <pubDate>Thu, 25 Jun 2026 19:18:29 +0000</pubDate>
+            <sparkle:version>202606252117</sparkle:version>
+            <sparkle:shortVersionString>2.4.78</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Wichtig: Bei groesseren Projekten mit vielen Versionen fror das Bearbeiten ein. Die Paket-Sicherung schreibt jetzt nur noch Geaendertes statt jedes Mal alles -> kein Haengen mehr.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.78/Magic-Cut-2.4.78.dmg"
+                sparkle:edSignature="36qQY3gMDvZn6hkZ5Z15UdJGUEop/7uw6YbMeCfyaKIpIo8+9BqYb5mqTY/TRulTtEhKrl8D1pm07bZrKQorAw==" length="6194562"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
