@@ -1833,5 +1833,19 @@ Klick auf einen Cut spielt jetzt genau diesen Cut (nicht mehr ab Cut 1). Der Cha
                 sparkle:edSignature="PPoNu8Pfl+txU7D9YuABpoC0/yCh8Kucf45yKJvuU/a0l79RDa3wyUEGiTotzxIFkrvtxmIo/bm8vqIqxNYyBw==" length="6185024"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.76</title>
+            <pubDate>Thu, 25 Jun 2026 16:53:54 +0000</pubDate>
+            <sparkle:version>202606251852</sparkle:version>
+            <sparkle:shortVersionString>2.4.76</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Zuverlaessigkeit: Behebt das Haengen bei Projekten mit vielen Versionen oder langem Chat — pro Chat-Frage wird nicht mehr unnoetig exportiert oder die grosse Transkript-Datei neu hochgeladen. Und der Chat-Verlauf erscheint jetzt zuverlaessig auch in der Web-Version (war vorher teils nur lokal sichtbar).
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.76/Magic-Cut-2.4.76.dmg"
+                sparkle:edSignature="5MrggSDZTjPTPq8Vu5x0pPaiyjTOCtc0D9AShK3gsasCzt7oOFT8UPavzarh7RDQDtZTVJvaVFt3WSWB+zQZDA==" length="6190127"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
