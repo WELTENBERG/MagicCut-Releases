@@ -1875,5 +1875,23 @@ Wichtig: Bei groesseren Projekten mit vielen Versionen fror das Bearbeiten ein. 
                 sparkle:edSignature="36qQY3gMDvZn6hkZ5Z15UdJGUEop/7uw6YbMeCfyaKIpIo8+9BqYb5mqTY/TRulTtEhKrl8D1pm07bZrKQorAw==" length="6194562"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.79</title>
+            <pubDate>Fri, 26 Jun 2026 19:07:16 +0000</pubDate>
+            <sparkle:version>202606262105</sparkle:version>
+            <sparkle:shortVersionString>2.4.79</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Schärfere Schnitt-Treue & „Verbraucht"-Markierung
+
+• Magic Cut prüft jeden KI-Vorschlag jetzt gegen das echte Transkript: Der genannte Sprecher sitzt verlässlich an der richtigen Aussage, verrutschte Stellen werden automatisch korrigiert, verdächtige Schnitte orange markiert.
+• Neu: Einzelne Aussagen oder ganze Versionen als „verbraucht" markieren — Magic Cut blendet sie aus und schlägt für neue Videos nur noch frische O-Töne vor.
+• Aufgeräumterer Chat-Verlauf.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.79/Magic-Cut-2.4.79.dmg"
+                sparkle:edSignature="Tdub5MslcIidmfhW1gPJdwpYWctGwkHLCrNSa9xw2Xi9umeDzAzukH6Ou3XQuBKDltHeH7zAUW/k44pJ1EZaDQ==" length="6230285"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
