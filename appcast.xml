@@ -1925,5 +1925,21 @@ Jede Schnitt-Version hat jetzt ihren eigenen, frischen Chat-Verlauf — statt de
                 sparkle:edSignature="+PyTBMhFLnPK0YG8QzkFQ+pMXq4WLOP0gP1p81fiI24kqCH4MiwscCrYVBZGAbOkwqQaea5LCZjFiv+iExngAA==" length="6236214"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.82</title>
+            <pubDate>Tue, 30 Jun 2026 15:38:15 +0000</pubDate>
+            <sparkle:version>202606301737</sparkle:version>
+            <sparkle:shortVersionString>2.4.82</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Zuverlässigere Sprecher-Erkennung
+
+Wenn die Sprecher-Erkennung mal an einem kurzen Server-Aussetzer scheitert, versucht Magic Cut es jetzt automatisch mehrmals erneut — statt das Transkript still ohne Sprecher zu lassen. Klappt es ausnahmsweise gar nicht, erscheint eine klare Meldung mit der Bitte, die Transkription neu zu starten.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.82/Magic-Cut-2.4.82.dmg"
+                sparkle:edSignature="x8QvRQXezr+DyHdzitfydOzyzcPHBx2D9hnFs7Qfdwm66sr8lcH3TkIu/chdrf1vc4TZYs8FUdhgBNshGfrHCg==" length="6236713"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
