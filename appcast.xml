@@ -1893,5 +1893,21 @@ Schärfere Schnitt-Treue & „Verbraucht"-Markierung
                 sparkle:edSignature="Tdub5MslcIidmfhW1gPJdwpYWctGwkHLCrNSa9xw2Xi9umeDzAzukH6Ou3XQuBKDltHeH7zAUW/k44pJ1EZaDQ==" length="6230285"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.80</title>
+            <pubDate>Tue, 30 Jun 2026 10:53:39 +0000</pubDate>
+            <sparkle:version>202606301252</sparkle:version>
+            <sparkle:shortVersionString>2.4.80</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Schnellerer Start bei sehr großen Projekten
+
+• Lange Chat-Verläufe werden jetzt häppchenweise geladen: Beim Öffnen erscheinen zuerst die neuesten Nachrichten, ältere holst du per Klick dazu. Damit öffnen umfangreiche Projekte ohne Verzögerung.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.80/Magic-Cut-2.4.80.dmg"
+                sparkle:edSignature="0YYdgBgwbiXIta5iQItVVj8YhwLm8UOw8rRMnkzcew7ypjsQHafPXeOiMabuTBbsIMtBSCwTEAOTsd9ofhB9Cw==" length="6235898"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
