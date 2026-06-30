@@ -1955,5 +1955,19 @@ Saubere Transkripte: An schwierigen Audio-Stellen (lange Pausen, langgezogene F�
                 sparkle:edSignature="IRmqL9+GvLuPhcuL0U57LbSjfThnXLZOmEoHy3a3jXZWPxGRf05jGzqiV+81SUkTlVg7KyzF/hOPKDkUyuCeDA==" length="6237863"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.84</title>
+            <pubDate>Tue, 30 Jun 2026 19:07:22 +0000</pubDate>
+            <sparkle:version>202606302106</sparkle:version>
+            <sparkle:shortVersionString>2.4.84</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Chat-Verlauf bleibt erhalten: Beim allerersten Schnitt-Vorschlag (wenn noch keine Version existiert) verschwand bisher der komplette Chat-Verlauf in dem Moment, in dem aus dem Gespräch automatisch die erste Version entstand. Jetzt wird das bisherige Gespräch in die erste Version übernommen — der Verlauf bleibt sichtbar und ist von Anfang an an die Version gebunden.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.84/Magic-Cut-2.4.84.dmg"
+                sparkle:edSignature="MTnobZK1BfieSxIIbIK6MG+4MtGEv5g+FIIUnSzJSVNOV6xxzsFfdFRqtr14mPUjM4VioJB0FmJ0EUAcXhUOAg==" length="6239008"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
