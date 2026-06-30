@@ -1909,5 +1909,21 @@ Schnellerer Start bei sehr großen Projekten
                 sparkle:edSignature="0YYdgBgwbiXIta5iQItVVj8YhwLm8UOw8rRMnkzcew7ypjsQHafPXeOiMabuTBbsIMtBSCwTEAOTsd9ofhB9Cw==" length="6235898"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.81</title>
+            <pubDate>Tue, 30 Jun 2026 15:06:05 +0000</pubDate>
+            <sparkle:version>202606301704</sparkle:version>
+            <sparkle:shortVersionString>2.4.81</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Großer Performance-Fix bei umfangreichen Projekten
+
+Jede Schnitt-Version hat jetzt ihren eigenen, frischen Chat-Verlauf — statt den gesamten Projekt-Chat (bei großen Projekten über 100 Nachrichten) auf einmal zu laden. Das beseitigt das Einfrieren beim Öffnen und Arbeiten in großen Projekten. Der vollständige Verlauf bleibt gespeichert; eine neue Version startet mit leerem Chat.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.81/Magic-Cut-2.4.81.dmg"
+                sparkle:edSignature="+PyTBMhFLnPK0YG8QzkFQ+pMXq4WLOP0gP1p81fiI24kqCH4MiwscCrYVBZGAbOkwqQaea5LCZjFiv+iExngAA==" length="6236214"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
