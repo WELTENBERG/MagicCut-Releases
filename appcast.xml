@@ -1941,5 +1941,19 @@ Wenn die Sprecher-Erkennung mal an einem kurzen Server-Aussetzer scheitert, vers
                 sparkle:edSignature="x8QvRQXezr+DyHdzitfydOzyzcPHBx2D9hnFs7Qfdwm66sr8lcH3TkIu/chdrf1vc4TZYs8FUdhgBNshGfrHCg==" length="6236713"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.83</title>
+            <pubDate>Tue, 30 Jun 2026 17:10:33 +0000</pubDate>
+            <sparkle:version>202606301909</sparkle:version>
+            <sparkle:shortVersionString>2.4.83</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Saubere Transkripte: An schwierigen Audio-Stellen (lange Pausen, langgezogene Füllwörter, Nebengeräusche) konnte sich die Spracherkennung in einer Endlos-Schleife verfangen und dasselbe Wort zig-fach hintereinander ausgeben (z. B. ein vielfach wiederholtes „äh"). Diese Wiederholungs-Schleifen werden jetzt automatisch erkannt und bereinigt — Transkript und Cut-Liste bleiben sauber.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.83/Magic-Cut-2.4.83.dmg"
+                sparkle:edSignature="IRmqL9+GvLuPhcuL0U57LbSjfThnXLZOmEoHy3a3jXZWPxGRf05jGzqiV+81SUkTlVg7KyzF/hOPKDkUyuCeDA==" length="6237863"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
