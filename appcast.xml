@@ -1989,5 +1989,19 @@ Online-Parität — Mac und Browser ziehen gleich:
                 sparkle:edSignature="eQarcUMgh6i+vG16Dur+0CClUJVPU9UBQ144ns6LLVwtiSG8B52kSdCOpJk18Tb/ikLGDx27stvYtKlddnhZBw==" length="6248509"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.86</title>
+            <pubDate>Tue, 30 Jun 2026 19:59:45 +0000</pubDate>
+            <sparkle:version>202606302158</sparkle:version>
+            <sparkle:shortVersionString>2.4.86</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Wissen-Online-Feinschliff: Das hinterlegte Wissen wird jetzt vollständig in die Cloud übertragen, sodass der Web-Chat es zuverlässig findet und einbezieht.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.86/Magic-Cut-2.4.86.dmg"
+                sparkle:edSignature="coZDYRMnLGZGv18Gr3hf3ZRSNi9OyfCItU+sJ7FdHKKWkmzsdC6nq7fXjLj2dVIExmy6qQZJfmUywIcrd6qcAg==" length="6248897"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
