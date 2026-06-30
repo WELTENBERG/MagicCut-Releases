@@ -1969,5 +1969,25 @@ Chat-Verlauf bleibt erhalten: Beim allerersten Schnitt-Vorschlag (wenn noch kein
                 sparkle:edSignature="MTnobZK1BfieSxIIbIK6MG+4MtGEv5g+FIIUnSzJSVNOV6xxzsFfdFRqtr14mPUjM4VioJB0FmJ0EUAcXhUOAg==" length="6239008"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.4.85</title>
+            <pubDate>Tue, 30 Jun 2026 19:52:17 +0000</pubDate>
+            <sparkle:version>202606302150</sparkle:version>
+            <sparkle:shortVersionString>2.4.85</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Online-Parität — Mac und Browser ziehen gleich:
+
+• Projekte sind jetzt standardmäßig für ALLE freigegeben. Die Projekt-Übersicht zeigt auch alle öffentlichen Projekte der Kollegen (vorher nur die eigenen). Nur Admins können einzelne Projekte privat schalten oder gezielt teilen.
+
+• „Verbraucht"-Markierungen sind jetzt mit der Online-App synchron: Was du am Mac als verbraucht markierst, ist auch im Browser ausgegraut — und umgekehrt. Claude schlägt verbrauchte Aussagen auf beiden Seiten nicht mehr vor.
+
+• Das hinterlegte Wissen (Dokumente) ist jetzt auch im Browser sichtbar, und der Web-Chat bezieht es genauso ein wie am Mac.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.4.85/Magic-Cut-2.4.85.dmg"
+                sparkle:edSignature="eQarcUMgh6i+vG16Dur+0CClUJVPU9UBQ144ns6LLVwtiSG8B52kSdCOpJk18Tb/ikLGDx27stvYtKlddnhZBw==" length="6248509"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
