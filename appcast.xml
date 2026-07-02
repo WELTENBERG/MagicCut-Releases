@@ -2003,5 +2003,19 @@ Wissen-Online-Feinschliff: Das hinterlegte Wissen wird jetzt vollständig in die
                 sparkle:edSignature="coZDYRMnLGZGv18Gr3hf3ZRSNi9OyfCItU+sJ7FdHKKWkmzsdC6nq7fXjLj2dVIExmy6qQZJfmUywIcrd6qcAg==" length="6248897"
                 type="application/octet-stream"/>
         </item>
+        <item>
+            <title>Version 2.5.0</title>
+            <pubDate>Thu, 02 Jul 2026 11:00:23 +0000</pubDate>
+            <sparkle:version>202607021258</sparkle:version>
+            <sparkle:shortVersionString>2.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Anmeldung jetzt über dein WELTBERG-Konto: E-Mail eingeben und den Code aus Telegram bestätigen — kein separates Magic-Cut-Passwort mehr. Der Web-Editor öffnet jetzt im WELTBERG-Dashboard (app.weltberg.one). Voraussetzung: dein Admin hat dich für Magic Cut freigeschaltet.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.5.0/Magic-Cut-2.5.0.dmg"
+                sparkle:edSignature="x8NWe1opD/2aP7hmTYR4Ebn0/xzC3OrkGbuisxIJ6ju9oll64Mxo5nTJHEEvVaPerneFjElu53jG5fdytNUJDg==" length="6280493"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
