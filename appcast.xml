@@ -2017,5 +2017,19 @@ Anmeldung jetzt über dein WELTBERG-Konto: E-Mail eingeben und den Code aus Tele
                 sparkle:edSignature="x8NWe1opD/2aP7hmTYR4Ebn0/xzC3OrkGbuisxIJ6ju9oll64Mxo5nTJHEEvVaPerneFjElu53jG5fdytNUJDg==" length="6280493"
                 type="application/octet-stream"/>
         </item>
-    </channel>
+                <item>
+            <title>Version 2.6.0</title>
+            <pubDate>Thu, 02 Jul 2026 17:19:19 +0000</pubDate>
+            <sparkle:version>202607021918</sparkle:version>
+            <sparkle:shortVersionString>2.6.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Magic Cut ist jetzt ein reines Analyse- und Upload-Geraet. Zieh eine Aufnahme rein — sie wird automatisch analysiert und fuer alle hochgeladen. Bearbeitet wird komplett im Web (Cuts, Claude-Chat, Wissen, Versionen) unter app.weltberg.one/magiccut. Ein Admin richtet den Mac einmalig ein; danach kein Login mehr noetig.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.6.0/Magic-Cut-2.6.0.dmg"
+                sparkle:edSignature="4EIrFOpAj/myD+A4LB+/m1ch08sSpMjmtFpYEZqgAhT1mfggT1Qkrovbu/Eext0hzeprmYN6B8eRX+EwfuDhDQ==" length="6043546"
+                type="application/octet-stream"/>
+        </item>
+</channel>
 </rss>
