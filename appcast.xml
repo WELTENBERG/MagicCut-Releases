@@ -2031,5 +2031,19 @@ Magic Cut ist jetzt ein reines Analyse- und Upload-Geraet. Zieh eine Aufnahme re
                 sparkle:edSignature="4EIrFOpAj/myD+A4LB+/m1ch08sSpMjmtFpYEZqgAhT1mfggT1Qkrovbu/Eext0hzeprmYN6B8eRX+EwfuDhDQ==" length="6043546"
                 type="application/octet-stream"/>
         </item>
-</channel>
+        <item>
+            <title>Version 2.6.1</title>
+            <pubDate>Sat, 04 Jul 2026 22:03:09 +0000</pubDate>
+            <sparkle:version>202607050002</sparkle:version>
+            <sparkle:shortVersionString>2.6.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Praezisere Schnitte: Magic Cut markiert jetzt unsichere Wortstellen im Transkript und schneidet an solchen Grenzen grosszuegiger — weniger Fehl-Cuts. Neu (standardmaessig inaktiv): Apple-Silicon-Beschleunigung (mlx) und ein Mess-Werkzeug fuer die Wort-Timing-Qualitaet. Am bestehenden Verhalten aendert sich nichts.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.6.1/Magic-Cut-2.6.1.dmg"
+                sparkle:edSignature="9kmQrYK4u+zgZik3ec6CHmlVcChSWCKpnQl2uYfkZqR7XNPh+16unkJHGFLbFTgdaLvBD09WHAECSEkt2g0VCQ==" length="6041433"
+                type="application/octet-stream"/>
+        </item>
+    </channel>
 </rss>
