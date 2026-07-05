@@ -2059,5 +2059,19 @@ Diverse Verbesserungen.
                 sparkle:edSignature="h1YUvjRMXofjKyyw9qcBW1aIIAm8pruV2GwpYi2k9/mrKuAV0JOxpvBpbmQ/BeRiGx7VDACwkmVBhERJsZ8rAg==" length="6045123"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.7.2</title>
+            <pubDate>Sun, 05 Jul 2026 09:13:14 +0000</pubDate>
+            <sparkle:version>202607051112</sparkle:version>
+            <sparkle:shortVersionString>2.7.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Diverse Verbesserungen.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.7.2/Magic-Cut-2.7.2.dmg"
+                sparkle:edSignature="UozHvf0Ikglb3UlQOUnq3HGcmB2VCNwMVqugv28UgOUQgDpSIOwERyhT4WLbfWLsc3C3bsax2IfbncRTQ6AaBQ==" length="6052646"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
