@@ -2087,5 +2087,19 @@ Diverse Verbesserungen.
                 sparkle:edSignature="JyYza4RJ9GPAbyWVCryjB/9HMDYAqZdFPlHZcsgJzR4EobdZoElCv6uPhkw7axRIjo07uegthkvYclCVezGVCg==" length="6046939"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.9.0</title>
+            <pubDate>Sun, 05 Jul 2026 23:34:29 +0000</pubDate>
+            <sparkle:version>202607060133</sparkle:version>
+            <sparkle:shortVersionString>2.9.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Retake-Rettung: Wenn du dich versprichst und den Satz neu ansetzt, hat Whisper die saubere zweite Fassung bisher mitten im Satz verschluckt — ein neuer Lücken-Heil-Pass holt sie automatisch zurück (an echtem Audio gemessen: alle verschluckten Fassungen gefüllt, keine Halluzinationen, keine Doppelungen). Wirkt im Standard- UND Turbo-Modus. Zusätzlich gehärteter Wiederhol-Filter, der Betonungen/Wiederholungen schützt und nur echte äh-Schleifen entfernt.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.9.0/Magic-Cut-2.9.0.dmg"
+                sparkle:edSignature="wKn69IbATuk9jlWqDxRzQdKAsz5JH7zdAWonO9HAQ2zzUsmfE7jGqCGZoi++cN9cKAtZhZFhwBGx1EwH1ghwBA==" length="6049028"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
