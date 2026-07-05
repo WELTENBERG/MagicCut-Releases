@@ -7,6 +7,20 @@
 
         <!--
         Neue Release-Einträge werden hier eingefügt:
+            <item>
+            <title>Version 2.7.0</title>
+            <pubDate>Sun, 05 Jul 2026 00:53:01 +0000</pubDate>
+            <sparkle:version>202607050251</sparkle:version>
+            <sparkle:shortVersionString>2.7.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Neu: optionaler Turbo-Modus für schnellere Transkription auf Apple Silicon (Einstellungen → Modell, experimentell). Die Standard-Transkription bleibt unverändert.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.7.0/Magic-Cut-2.7.0.dmg"
+                sparkle:edSignature="TMFMd9rxgi/94f8SytIZqafjFqDZikokU+7Qenvp/ES0s8SIPrAhunY9lrtm9BGDMzuEFKEYj878iryMoMUFAw==" length="6044632"
+                type="application/octet-stream"/>
+        </item>
         <item>
             <title>Version 1.1.0</title>
             <pubDate>Mon, 20 Apr 2026 14:00:00 +0200</pubDate>
