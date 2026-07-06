@@ -2143,5 +2143,19 @@ Sprecher-Erkennung übersteht Server-Neustarts (längere Wiederholversuche). Zus
                 sparkle:edSignature="kX6JopuTcxTjzIQ6fhxIoPVNwvjie6rN6Kx2kYIyPugYvpZTt5qTUPk5/nnEpt6LQdfHf5CdYofCwL7gINsdDQ==" length="6061737"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.9.4</title>
+            <pubDate>Mon, 06 Jul 2026 13:38:21 +0000</pubDate>
+            <sparkle:version>202607061537</sparkle:version>
+            <sparkle:shortVersionString>2.9.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Sprecher-Erkennung funktioniert jetzt auch bei sehr langen Aufnahmen (3-4+ Stunden): der KI-Abgleich läuft in Häppchen statt an der Länge zu scheitern. Mit 2.9.2/2.9.3: robuster Audio-Upload + Neustart-feste Erkennung.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.9.4/Magic-Cut-2.9.4.dmg"
+                sparkle:edSignature="C7tlCt20O53EUMIPcujskK0toU9CL7i4A57JDi8knaZ/MzqQtHq5NHGU2yEj8Nzm5UthsHlF2XjLOFwcvGpcCg==" length="6061953"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
