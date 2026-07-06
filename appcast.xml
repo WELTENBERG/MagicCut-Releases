@@ -2101,5 +2101,19 @@ Retake-Rettung: Wenn du dich versprichst und den Satz neu ansetzt, hat Whisper d
                 sparkle:edSignature="wKn69IbATuk9jlWqDxRzQdKAsz5JH7zdAWonO9HAQ2zzUsmfE7jGqCGZoi++cN9cKAtZhZFhwBGx1EwH1ghwBA==" length="6049028"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.9.1</title>
+            <pubDate>Mon, 06 Jul 2026 05:56:35 +0000</pubDate>
+            <sparkle:version>202607060753</sparkle:version>
+            <sparkle:shortVersionString>2.9.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Feinschliff der Retake-Rettung: geheilte Stellen ragen nie in Nachbar-Sätze (kein Wort-Bleed), und der Schutz gegen erfundenen Text in Stille-Pausen ist strenger (nur echte Sprache wird ergänzt). Plus interne Stabilitäts-Fixes im Web-Chat.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.9.1/Magic-Cut-2.9.1.dmg"
+                sparkle:edSignature="HdqEpS9FMJa4xTEe0S5ws2Q/t8ZEECXNxuzLXQ5lNf3Ybh94tV4H6HOxaiVZalzDREqkFNkVlXyz56xaOveuDg==" length="6049425"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
