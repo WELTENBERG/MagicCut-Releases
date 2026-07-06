@@ -2129,5 +2129,19 @@ Audio-Upload robust: automatische Wiederholung + Selbstheilung nach Abbruch (Ser
                 sparkle:edSignature="eYZjGCH63+wfUFbKh6H4NQNM9u4If+ybpHWzyAD/Bt5iQSa3Yp9KJIrZ4nw1QOL1UiLy7IWu3UH0Wv0OOQgOBQ==" length="6061157"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.9.3</title>
+            <pubDate>Mon, 06 Jul 2026 12:29:26 +0000</pubDate>
+            <sparkle:version>202607061428</sparkle:version>
+            <sparkle:shortVersionString>2.9.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Sprecher-Erkennung übersteht Server-Neustarts (längere Wiederholversuche). Zusammen mit 2.9.2: robuster Audio-Upload mit automatischer Nachholung + Status-Badges.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.9.3/Magic-Cut-2.9.3.dmg"
+                sparkle:edSignature="kX6JopuTcxTjzIQ6fhxIoPVNwvjie6rN6Kx2kYIyPugYvpZTt5qTUPk5/nnEpt6LQdfHf5CdYofCwL7gINsdDQ==" length="6061737"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
