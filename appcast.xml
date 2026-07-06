@@ -2115,5 +2115,19 @@ Feinschliff der Retake-Rettung: geheilte Stellen ragen nie in Nachbar-Sätze (ke
                 sparkle:edSignature="HdqEpS9FMJa4xTEe0S5ws2Q/t8ZEECXNxuzLXQ5lNf3Ybh94tV4H6HOxaiVZalzDREqkFNkVlXyz56xaOveuDg==" length="6049425"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.9.2</title>
+            <pubDate>Mon, 06 Jul 2026 12:09:44 +0000</pubDate>
+            <sparkle:version>202607061408</sparkle:version>
+            <sparkle:shortVersionString>2.9.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Audio-Upload robust: automatische Wiederholung + Selbstheilung nach Abbruch (Server-Neustart), Status-Badges 'Audio lädt hoch'/'Audio ausstehend' in der Projektliste. Präzisere Cut-Grenzen aus der Wellenform (Sprach-Insel-Erkennung).
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.9.2/Magic-Cut-2.9.2.dmg"
+                sparkle:edSignature="eYZjGCH63+wfUFbKh6H4NQNM9u4If+ybpHWzyAD/Bt5iQSa3Yp9KJIrZ4nw1QOL1UiLy7IWu3UH0Wv0OOQgOBQ==" length="6061157"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
