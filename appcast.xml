@@ -2157,5 +2157,19 @@ Sprecher-Erkennung funktioniert jetzt auch bei sehr langen Aufnahmen (3-4+ Stund
                 sparkle:edSignature="C7tlCt20O53EUMIPcujskK0toU9CL7i4A57JDi8knaZ/MzqQtHq5NHGU2yEj8Nzm5UthsHlF2XjLOFwcvGpcCg==" length="6061953"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.9.5</title>
+            <pubDate>Mon, 06 Jul 2026 15:25:35 +0000</pubDate>
+            <sparkle:version>202607061724</sparkle:version>
+            <sparkle:shortVersionString>2.9.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Sprecher-Erkennung bei langen Aufnahmen (3-4+ Stunden) jetzt direkt bei der Analyse vollständig: Claude ordnet offene Stellen per Gesprächslogik zu (Lücken-Merge), statt am Volumen zu scheitern.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.9.5/Magic-Cut-2.9.5.dmg"
+                sparkle:edSignature="T/fd/0Z7E9JuMNqwPAGJwKWlX6UVpT/Ya+CvfokKobsYOHPQ8zI8O6DN8tm1056tMyqzWBzNLm4uMPjf48/tDA==" length="6063516"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
