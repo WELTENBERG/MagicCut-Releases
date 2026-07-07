@@ -2213,5 +2213,19 @@ Web-hochgeladene Projekte tragen jetzt den eingegebenen Projekttitel (statt eine
                 sparkle:edSignature="qQA/1dFPPmBmmitzUlfIiuB5aCpTPok6i/XbcmwXN7DnF2eGR8h4epdA0qyHk8qg8Y7/ipthvWtAP3C55yfUCw==" length="6107594"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.10.3</title>
+            <pubDate>Tue, 07 Jul 2026 20:18:44 +0000</pubDate>
+            <sparkle:version>202607072217</sparkle:version>
+            <sparkle:shortVersionString>2.10.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Der Fortschritt einer Web-Transkription bewegt sich jetzt realistisch und zeigt eine geschätzte Restzeit an (statt bei 12% zu kleben) — dieselbe zeitbasierte Schätzung wie in der Mac-App.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.10.3/Magic-Cut-2.10.3.dmg"
+                sparkle:edSignature="4XBxp8vEKdh6QB8BDLsTBilOjXW2vzwqddNhI6MOrC24IFxTOheGoAMMnII3K0kNtnfQysoJ9tfY10bJDT/mDw==" length="6106748"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
