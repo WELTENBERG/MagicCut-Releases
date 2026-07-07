@@ -2199,5 +2199,19 @@ Beim Web-Upload lassen sich jetzt — wie in der App — alle Dateien in EIN Fel
                 sparkle:edSignature="CFpRXdYPcDjzvq+tVVo2uyzRsXU+M6LriM0dFDq1qPzkeAUPxcrVMknJilVMwTi9Aspfau0bCLDeHAGdwTfVCg==" length="6105242"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.10.2</title>
+            <pubDate>Tue, 07 Jul 2026 18:56:27 +0000</pubDate>
+            <sparkle:version>202607072055</sparkle:version>
+            <sparkle:shortVersionString>2.10.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Web-hochgeladene Projekte tragen jetzt den eingegebenen Projekttitel (statt eines internen Namens). Zusammen mit der neuen Umbenennen-Funktion im Web erscheint der Name auch in der nach Final Cut exportierten XML — inklusive Versionsnummer.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.10.2/Magic-Cut-2.10.2.dmg"
+                sparkle:edSignature="qQA/1dFPPmBmmitzUlfIiuB5aCpTPok6i/XbcmwXN7DnF2eGR8h4epdA0qyHk8qg8Y7/ipthvWtAP3C55yfUCw==" length="6107594"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
