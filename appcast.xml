@@ -2241,5 +2241,19 @@ Die Restzeit-Schätzung lernt jetzt pro Mac dazu: Nach jeder Transkription merkt
                 sparkle:edSignature="EDZgxvEIRoJVrSg2D4l+jcvd9sRkdqK0N0UrkTJ9NpERmJyoQ6Ge23ikVtwfyvwj4tn2bFHl8qPRcp35eStjAg==" length="6122100"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.10.5</title>
+            <pubDate>Tue, 07 Jul 2026 21:13:48 +0000</pubDate>
+            <sparkle:version>202607072312</sparkle:version>
+            <sparkle:shortVersionString>2.10.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Wird ein Projekt im Web umbenannt, zeigt die Mac-App den neuen Namen jetzt auch in der Projektliste an (vorher blieb dort der ursprüngliche Dateiname stehen).
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.10.5/Magic-Cut-2.10.5.dmg"
+                sparkle:edSignature="MlGESz9w3Ma90QGRJmzbszPRGvPPyvTSALQ4ODCKvprJo6m/QXbdNPgGmHQ7R78h3FQVWCu275PM7/cEu30oBA==" length="6122195"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
