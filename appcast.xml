@@ -2171,5 +2171,19 @@ Sprecher-Erkennung bei langen Aufnahmen (3-4+ Stunden) jetzt direkt bei der Anal
                 sparkle:edSignature="T/fd/0Z7E9JuMNqwPAGJwKWlX6UVpT/Ya+CvfokKobsYOHPQ8zI8O6DN8tm1056tMyqzWBzNLm4uMPjf48/tDA==" length="6063516"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.10.0</title>
+            <pubDate>Tue, 07 Jul 2026 16:11:55 +0000</pubDate>
+            <sparkle:version>202607071810</sparkle:version>
+            <sparkle:shortVersionString>2.10.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Neu: Dieser Mac kann sich als Transkriptions-Server bereitstellen (Schalter oben im Fenster). Ist er an, übernimmt er automatisch Transkriptions-Aufträge, die Mitarbeiter im Web-Dashboard hochladen — auch mehrstündige Drehs — und lädt die fertigen Projekte hoch. Robust gegen Netzstörungen und Abstürze (Aufträge werden automatisch wieder aufgenommen).
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.10.0/Magic-Cut-2.10.0.dmg"
+                sparkle:edSignature="3Lr2atDSGsarBzaZOVrRKyXeP8m3k8HTmqxgsm206BxW7okRfkMQWi0A5kcVAafbrIBKu3MU1VF0daUac/dICQ==" length="6100452"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
