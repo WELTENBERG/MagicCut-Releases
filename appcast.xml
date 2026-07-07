@@ -2227,5 +2227,19 @@ Der Fortschritt einer Web-Transkription bewegt sich jetzt realistisch und zeigt 
                 sparkle:edSignature="4XBxp8vEKdh6QB8BDLsTBilOjXW2vzwqddNhI6MOrC24IFxTOheGoAMMnII3K0kNtnfQysoJ9tfY10bJDT/mDw==" length="6106748"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.10.4</title>
+            <pubDate>Tue, 07 Jul 2026 20:45:24 +0000</pubDate>
+            <sparkle:version>202607072244</sparkle:version>
+            <sparkle:shortVersionString>2.10.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Die Restzeit-Schätzung lernt jetzt pro Mac dazu: Nach jeder Transkription merkt sich der Server die echte Dauer (Länge, Specs, Zeit) und die Prognose wird mit jedem Lauf genauer — ein schneller Mac bekommt kürzere, ein langsamer längere Schätzungen.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.10.4/Magic-Cut-2.10.4.dmg"
+                sparkle:edSignature="EDZgxvEIRoJVrSg2D4l+jcvd9sRkdqK0N0UrkTJ9NpERmJyoQ6Ge23ikVtwfyvwj4tn2bFHl8qPRcp35eStjAg==" length="6122100"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
