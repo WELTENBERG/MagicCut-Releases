@@ -2185,5 +2185,19 @@ Neu: Dieser Mac kann sich als Transkriptions-Server bereitstellen (Schalter oben
                 sparkle:edSignature="3Lr2atDSGsarBzaZOVrRKyXeP8m3k8HTmqxgsm206BxW7okRfkMQWi0A5kcVAafbrIBKu3MU1VF0daUac/dICQ==" length="6100452"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.10.1</title>
+            <pubDate>Tue, 07 Jul 2026 17:28:27 +0000</pubDate>
+            <sparkle:version>202607071927</sparkle:version>
+            <sparkle:shortVersionString>2.10.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Beim Web-Upload lassen sich jetzt — wie in der App — alle Dateien in EIN Feld ziehen: Video/Audio, die FCPXML aus Final Cut (für den Schnitt-Export) und Wissens-Dokumente. Der Transkriptions-Server hängt FCPXML und Wissen automatisch ans Projekt, damit der fertige Schnitt sauber nach Final Cut exportiert werden kann.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.10.1/Magic-Cut-2.10.1.dmg"
+                sparkle:edSignature="CFpRXdYPcDjzvq+tVVo2uyzRsXU+M6LriM0dFDq1qPzkeAUPxcrVMknJilVMwTi9Aspfau0bCLDeHAGdwTfVCg==" length="6105242"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
