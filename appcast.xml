@@ -2255,5 +2255,19 @@ Wird ein Projekt im Web umbenannt, zeigt die Mac-App den neuen Namen jetzt auch 
                 sparkle:edSignature="MlGESz9w3Ma90QGRJmzbszPRGvPPyvTSALQ4ODCKvprJo6m/QXbdNPgGmHQ7R78h3FQVWCu275PM7/cEu30oBA==" length="6122195"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.10.6</title>
+            <pubDate>Wed, 15 Jul 2026 12:40:38 +0000</pubDate>
+            <sparkle:version>202607151438</sparkle:version>
+            <sparkle:shortVersionString>2.10.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Audio-Upload jetzt ausfallsicher: große Audiodateien gehen in kleinen Häppchen zum Server (überlebt langsame Leitungen und Abbrüche, setzt automatisch fort) und ein hängender Audio-Upload heilt sich alle 5 Minuten von selbst. Dazu: sauberere Alternativ-Takes (abgebrochene Sätze werden nicht mehr als Fassung vollständiger angeboten) und präziseres Ton-Ende beim Schnitt.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.10.6/Magic-Cut-2.10.6.dmg"
+                sparkle:edSignature="ESDhplidzj0zCfs8RFRLLh6XuejKnmhWPW2enkFpwSg4Zl7WtEyo3Aaxif8QUv0p1DQGqWwsiLRUpF4tf1lSBg==" length="6134918"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
