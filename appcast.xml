@@ -2269,5 +2269,19 @@ Audio-Upload jetzt ausfallsicher: große Audiodateien gehen in kleinen Häppchen
                 sparkle:edSignature="ESDhplidzj0zCfs8RFRLLh6XuejKnmhWPW2enkFpwSg4Zl7WtEyo3Aaxif8QUv0p1DQGqWwsiLRUpF4tf1lSBg==" length="6134918"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.10.7</title>
+            <pubDate>Fri, 14 Aug 2026 00:01:07 +0000</pubDate>
+            <sparkle:version>202608140200</sparkle:version>
+            <sparkle:shortVersionString>2.10.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Tonspur jetzt in Stereo mit 192 kbit/s statt Mono mit 46 kbit/s. Deutlich besserer Klang im Editor - und genauere Sprechererkennung, weil die Rettungsfunktion genau diese Tonspur verwendet.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.10.7/Magic-Cut-2.10.7.dmg"
+                sparkle:edSignature="K4ZqItuEhy4ti1/cNhxcGBrvXtX4k12d8niSLLxyKQLfv+v3a7ljbnxsnuMlj7NSmW8jeQuK8cjtFuwAoQ1GDw==" length="6135542"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
