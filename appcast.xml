@@ -2283,5 +2283,19 @@ Tonspur jetzt in Stereo mit 192 kbit/s statt Mono mit 46 kbit/s. Deutlich besser
                 sparkle:edSignature="K4ZqItuEhy4ti1/cNhxcGBrvXtX4k12d8niSLLxyKQLfv+v3a7ljbnxsnuMlj7NSmW8jeQuK8cjtFuwAoQ1GDw==" length="6135542"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.10.8</title>
+            <pubDate>Fri, 14 Aug 2026 00:43:02 +0000</pubDate>
+            <sparkle:version>202608140241</sparkle:version>
+            <sparkle:shortVersionString>2.10.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Scheitert die Sprechererkennung, meldet die Analyse das jetzt ehrlich als Fehler statt stillschweigend Fertig. Das Transkript wird trotzdem geschrieben.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.10.8/Magic-Cut-2.10.8.dmg"
+                sparkle:edSignature="Vdo4pmdtuFX61WhLmvNwb6iUQAgF8BbaoTY5hGMwFfMpkiDyRkYP136odl6sAID4dkMnKseI+rybJHgcHTb/Cg==" length="6136003"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
