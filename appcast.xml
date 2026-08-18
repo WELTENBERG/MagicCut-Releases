@@ -2297,5 +2297,19 @@ Scheitert die Sprechererkennung, meldet die Analyse das jetzt ehrlich als Fehler
                 sparkle:edSignature="Vdo4pmdtuFX61WhLmvNwb6iUQAgF8BbaoTY5hGMwFfMpkiDyRkYP136odl6sAID4dkMnKseI+rybJHgcHTb/Cg==" length="6136003"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.10.9</title>
+            <pubDate>Tue, 18 Aug 2026 10:19:31 +0000</pubDate>
+            <sparkle:version>202608181218</sparkle:version>
+            <sparkle:shortVersionString>2.10.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Sprecher-Erkennung repariert: Bei langen Aufnahmen brach die Sprecher-Zuordnung direkt nach der fertigen Transkription ab — das Transkript war da, aber ohne Sprecher. Ursache war ein fehlender Programmbaustein im Sprecher-Abgleich. Wort-Timings und Schnitt bleiben unveraendert frame-genau.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.10.9/Magic-Cut-2.10.9.dmg"
+                sparkle:edSignature="95I92T7uUuVxwMczcIihEY1RcCP3VBxkXm5hz9PQk+lhfGqpzasr2L9G7f1TJvchk4KgT+9hyCKAX5NHmDsmCA==" length="6137953"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
