@@ -2353,5 +2353,19 @@ Sicherheitsnetz beim Aufraeumen: der Mac loescht das grosse Original erst, wenn 
                 sparkle:edSignature="PiqRsptu199DRfewmlFaRzxjipFhpFBoffDuUpP+VRwONfPN6+Rj8lSwSgxQJTGlBZd9JPkprUVUFFmdQlPtCg==" length="6156219"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.11.3</title>
+            <pubDate>Sat, 29 Aug 2026 16:25:47 +0000</pubDate>
+            <sparkle:version>202608291824</sparkle:version>
+            <sparkle:shortVersionString>2.11.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Ein online geloeschtes Projekt wird nicht mehr aus dem lokalen Speicher neu angelegt.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.11.3/Magic-Cut-2.11.3.dmg"
+                sparkle:edSignature="/9xPPn85K1qpuIzgCGe964LTAPRUAaM7a6dydmicx4DjRfedh1Ap4eddWg67jU4T4EhYjFVVzQnkfsMS+aejCQ==" length="6161537"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
