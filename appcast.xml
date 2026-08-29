@@ -2339,5 +2339,19 @@ Behebt die Sprecher-Erkennung: in 2.11.0 brach sie nach fertiger Transkription a
                 sparkle:edSignature="cXf8/JO0yvvFkgv3ec9Rwexuix9ogCebuKOOgGkazdCr0GFH41l+HRGUuwxGAE2xs5wPHjVKjAYixe1UWELYCQ==" length="6154334"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.11.2</title>
+            <pubDate>Sat, 29 Aug 2026 12:35:51 +0000</pubDate>
+            <sparkle:version>202608291433</sparkle:version>
+            <sparkle:shortVersionString>2.11.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Sicherheitsnetz beim Aufraeumen: der Mac loescht das grosse Original erst, wenn der Server die Uebernahme der Ergebnisse ausdruecklich bestaetigt hat. Und der FCPXML-Export bricht sichtbar ab, statt still auf eine einzelne Datei auszuweichen.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.11.2/Magic-Cut-2.11.2.dmg"
+                sparkle:edSignature="PiqRsptu199DRfewmlFaRzxjipFhpFBoffDuUpP+VRwONfPN6+Rj8lSwSgxQJTGlBZd9JPkprUVUFFmdQlPtCg==" length="6156219"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
