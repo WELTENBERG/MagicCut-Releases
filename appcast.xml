@@ -2311,5 +2311,19 @@ Sprecher-Erkennung repariert: Bei langen Aufnahmen brach die Sprecher-Zuordnung 
                 sparkle:edSignature="95I92T7uUuVxwMczcIihEY1RcCP3VBxkXm5hz9PQk+lhfGqpzasr2L9G7f1TJvchk4KgT+9hyCKAX5NHmDsmCA==" length="6137953"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.11.0</title>
+            <pubDate>Sat, 29 Aug 2026 05:25:07 +0000</pubDate>
+            <sparkle:version>202608290723</sparkle:version>
+            <sparkle:shortVersionString>2.11.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Kompakte Videovorschau: Video-Projekte zeigen im Web-Editor jetzt ein Bild statt nur den Ton. Der Mac erzeugt aus dem Original eine kleine Vorschau (54 MB werden zu 271 KB) und laedt nur die hoch. Der FCPXML-Export bleibt unveraendert an den Original-Medien.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.11.0/Magic-Cut-2.11.0.dmg"
+                sparkle:edSignature="yGFqBr2EA8pcVeoTmOYMYxLUwDVlLxeMIA2k/OV4L5NmQ3YKtRyMSJ7DcJIwc/dTZ11PeDsAWWdtlpfQkQq0BQ==" length="6154599"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
