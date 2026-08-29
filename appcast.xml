@@ -2325,5 +2325,19 @@ Kompakte Videovorschau: Video-Projekte zeigen im Web-Editor jetzt ein Bild statt
                 sparkle:edSignature="yGFqBr2EA8pcVeoTmOYMYxLUwDVlLxeMIA2k/OV4L5NmQ3YKtRyMSJ7DcJIwc/dTZ11PeDsAWWdtlpfQkQq0BQ==" length="6154599"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.11.1</title>
+            <pubDate>Sat, 29 Aug 2026 06:08:20 +0000</pubDate>
+            <sparkle:version>202608290807</sparkle:version>
+            <sparkle:shortVersionString>2.11.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Behebt die Sprecher-Erkennung: in 2.11.0 brach sie nach fertiger Transkription ab (fehlender urllib-Import). Der Fix ist derselbe wie in 2.10.9. Die kompakte Videovorschau aus 2.11.0 bleibt enthalten.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.11.1/Magic-Cut-2.11.1.dmg"
+                sparkle:edSignature="cXf8/JO0yvvFkgv3ec9Rwexuix9ogCebuKOOgGkazdCr0GFH41l+HRGUuwxGAE2xs5wPHjVKjAYixe1UWELYCQ==" length="6154334"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
