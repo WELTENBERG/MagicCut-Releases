@@ -2367,5 +2367,19 @@ Ein online geloeschtes Projekt wird nicht mehr aus dem lokalen Speicher neu ange
                 sparkle:edSignature="/9xPPn85K1qpuIzgCGe964LTAPRUAaM7a6dydmicx4DjRfedh1Ap4eddWg67jU4T4EhYjFVVzQnkfsMS+aejCQ==" length="6161537"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.11.4</title>
+            <pubDate>Sun, 30 Aug 2026 14:22:26 +0000</pubDate>
+            <sparkle:version>202608301621</sparkle:version>
+            <sparkle:shortVersionString>2.11.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Final-Cut-Auftraege werden wieder angenommen: der Mac meldet dem Server jetzt, dass er Final-Cut-Projekte verarbeiten kann. Bisher wartete ein eingeschalteter Mac-Arbeitsplatz vergeblich auf einen Final-Cut-Auftrag.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.11.4/Magic-Cut-2.11.4.dmg"
+                sparkle:edSignature="RpA+Ma/BBqpzyAAvglMpGvgKzVhI9NBDYJ8pM+UxREw44ZiAWp/7LbyxrjiBk9rgDiB1RT6CjKPRi/wTRKJ+Cg==" length="6169410"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
