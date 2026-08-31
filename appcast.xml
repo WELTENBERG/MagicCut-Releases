@@ -2381,5 +2381,19 @@ Final-Cut-Auftraege werden wieder angenommen: der Mac meldet dem Server jetzt, d
                 sparkle:edSignature="RpA+Ma/BBqpzyAAvglMpGvgKzVhI9NBDYJ8pM+UxREw44ZiAWp/7LbyxrjiBk9rgDiB1RT6CjKPRi/wTRKJ+Cg==" length="6169410"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.11.5</title>
+            <pubDate>Mon, 31 Aug 2026 08:12:18 +0000</pubDate>
+            <sparkle:version>202608311011</sparkle:version>
+            <sparkle:shortVersionString>2.11.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Übertragung des Rohmediums ist jetzt sichtbar: eigener Zustand mit exaktem Prozentsatz, Bytes, Tempo und Restzeit — statt 23 Minuten stummem „Wird vorbereitet …". Ein abgerissener Download setzt fort, statt bei null zu beginnen.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.11.5/Magic-Cut-2.11.5.dmg"
+                sparkle:edSignature="12NOW6zZwZVJgt06w6ylmtJs8VbvIgCi/em8kcdNHpUEnOgUpyjeVO0ZDB67eeH8b/KWR1lGQ3isFydllF0fCg==" length="6223582"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
