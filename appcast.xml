@@ -2395,5 +2395,19 @@ Final-Cut-Auftraege werden wieder angenommen: der Mac meldet dem Server jetzt, d
                 sparkle:edSignature="12NOW6zZwZVJgt06w6ylmtJs8VbvIgCi/em8kcdNHpUEnOgUpyjeVO0ZDB67eeH8b/KWR1lGQ3isFydllF0fCg==" length="6223582"
                 type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 2.11.6</title>
+            <pubDate>Mon, 28 Sep 2026 18:30:02 +0000</pubDate>
+            <sparkle:version>202609281931</sparkle:version>
+            <sparkle:shortVersionString>2.11.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+macOS 27: Magic Cut passt seine Python-Umgebung vor jeder Transkription automatisch an – die Transkription brach sonst mit „zero-fill section type“ ab. Ist Turbo eingeschaltet und fehlt der Turbo-Baustein (mlx-whisper), wird er automatisch nachinstalliert.
+            ]]></description>
+            <enclosure
+                url="https://github.com/WELTENBERG/MagicCut-Releases/releases/download/v2.11.6/Magic-Cut-2.11.6.dmg"
+                sparkle:edSignature="OGEhg09T2oQbI6oOiHT5r1dbkhz1OO/OU4YoOS79qkjato4OiV3yKjEMHiijsOim/rk2uHoBErfaYynKdtPUCQ==" length="6254959"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
